@@ -1,4 +1,216 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-19T05:38:18-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Technically Intentionally</title><subtitle>An aspiring developer's journey for a minimal life.</subtitle><entry><title type="html">Best New Features in macOS Catalina for a Mobile Student</title><link href="http://localhost:4000/catalina/" rel="alternate" type="text/html" title="Best New Features in macOS Catalina for a Mobile Student" /><published>2019-06-05T00:00:00-04:00</published><updated>2019-06-05T00:00:00-04:00</updated><id>http://localhost:4000/catalina</id><content type="html" xml:base="http://localhost:4000/catalina/">&lt;p&gt;As an international university student, I rely on a 13-inch MacBook Pro to get work done wherever I go, whether that be a library, café or in a different country. As such, the highlight of Apple’s World-Wide Developer Conference (WWDC) 2019 for me was the new macOS Catalina.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-19T06:19:37-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Technically Intentionally</title><subtitle>An aspiring developer's journey for a minimal life.</subtitle><entry><title type="html">Premature Optimization</title><link href="http://localhost:4000/optimization/" rel="alternate" type="text/html" title="Premature Optimization" /><published>2019-10-23T00:00:00-04:00</published><updated>2019-10-23T00:00:00-04:00</updated><id>http://localhost:4000/optimization</id><content type="html" xml:base="http://localhost:4000/optimization/">&lt;p&gt;A software engineering wisdom says that premature optimization is the root of all evil. Note the modifier “premature.” Optimization is great; it’s not so great in the prototyping stage though.&lt;/p&gt;
+
+&lt;p&gt;This is exactly what I am feeling in life. I have obsessed so much over the optimization of the minutiae of the daily grind that I have forgotten to stop and reflect if I am going in the right direction in the first place.&lt;/p&gt;
+
+&lt;p&gt;In the years spent reading self-help and productivity to chase the elusive 4.0 GPA and the prestigious college, peak performance and impressive portfolios, I have never sat down to ask why.&lt;/p&gt;
+
+&lt;p&gt;At best I defaulted to the answer of “because I should.” But why? Perhaps because my parents and my teachers and everybody in this soul-sucking society told me to.&lt;/p&gt;
+
+&lt;p&gt;“You are smart” always leads to “so you should be successful as a lawyer, engineer at FAANG, or a professor.”&lt;/p&gt;
+
+&lt;p&gt;Sometimes we hear certain ideas too often that it gets engrained into our bones and we think it’s ours. And we never realize that we’ve been slowly poisoned, albeit unintentionally, the whole time.&lt;/p&gt;
+
+&lt;p&gt;I don’t know anything. I don’t know life at all and I am left confused and tired in a foreign land with no answers.&lt;/p&gt;</content><author><name></name></author><summary type="html">A software engineering wisdom says that premature optimization is the root of all evil. Note the modifier “premature.” Optimization is great; it’s not so great in the prototyping stage though. This is exactly what I am feeling in life. I have obsessed so much over the optimization of the minutiae of the daily grind that I have forgotten to stop and reflect if I am going in the right direction in the first place. In the years spent reading self-help and productivity to chase the elusive 4.0 GPA and the prestigious college, peak performance and impressive portfolios, I have never sat down to ask why. At best I defaulted to the answer of “because I should.” But why? Perhaps because my parents and my teachers and everybody in this soul-sucking society told me to. “You are smart” always leads to “so you should be successful as a lawyer, engineer at FAANG, or a professor.” Sometimes we hear certain ideas too often that it gets engrained into our bones and we think it’s ours. And we never realize that we’ve been slowly poisoned, albeit unintentionally, the whole time. I don’t know anything. I don’t know life at all and I am left confused and tired in a foreign land with no answers.</summary></entry><entry><title type="html">A Minimal Online Presence</title><link href="http://localhost:4000/presence/" rel="alternate" type="text/html" title="A Minimal Online Presence" /><published>2019-10-20T00:00:00-04:00</published><updated>2019-10-20T00:00:00-04:00</updated><id>http://localhost:4000/presence</id><content type="html" xml:base="http://localhost:4000/presence/">&lt;p&gt;I feel like there is an instinctual and incessant urge to publicize everything on the internet ingrained onto us. Personally, simply reading an opinionated post online can trigger a desire to make an account to deliver a clever rebuttal.&lt;/p&gt;
+
+&lt;p&gt;Perhaps as social animals, we are compelled to digest opinions and have our opinions heard. There are more productive methods, however. For instance, I could read well-researched books and articles, and participate in mutually respectful real-world conversations. Waging a poorly organized, scantly fact-checked culture war on the internet is a waste of time.&lt;/p&gt;
+
+&lt;p&gt;It is not just social media. Why did I find it satisfying to curate my public Goodreads profile? I’m no book reviewer, so I don’t need to publicize it. I don’t need an over-engineered remote database to keep track of books. I can simply create a list myself.&lt;/p&gt;
+
+&lt;p&gt;I’ve come to question this urge for publicity and to minimize my online presence as much as possible. Currently, only this blog remains. It’s minimal - no ads, no follow buttons, no comment boxes. It’s also rarely visited, partly as a direct consequence of my non-existent social media promotion. I’m okay with that. I love this kind of a quiet internet.&lt;/p&gt;
+
+&lt;p&gt;Note that I am not opposed to all online forums and profile curation services. Some can be useful for specific purposes. For instance, an amateur birdwatcher may make great use out of &lt;a href=&quot;https://ebird.org/home&quot;&gt;eBird&lt;/a&gt;, an artist may want to have an &lt;a href=&quot;https://www.artstation.com/contests&quot;&gt;ArtStation&lt;/a&gt; profile, or a developer may use &lt;a href=&quot;https://github.com&quot;&gt;GitHub&lt;/a&gt; for collaborative projects.&lt;/p&gt;
+
+&lt;p&gt;My question is, why do we default to these online services that are often over-engineered for most use cases? Do we ever sit down to question whether these tools are the &lt;em&gt;best&lt;/em&gt; way to support our crafts and hobbies? Or simply the convenient default? I suspect that often it is the latter.&lt;/p&gt;</content><author><name></name></author><summary type="html">I feel like there is an instinctual and incessant urge to publicize everything on the internet ingrained onto us. Personally, simply reading an opinionated post online can trigger a desire to make an account to deliver a clever rebuttal. Perhaps as social animals, we are compelled to digest opinions and have our opinions heard. There are more productive methods, however. For instance, I could read well-researched books and articles, and participate in mutually respectful real-world conversations. Waging a poorly organized, scantly fact-checked culture war on the internet is a waste of time. It is not just social media. Why did I find it satisfying to curate my public Goodreads profile? I’m no book reviewer, so I don’t need to publicize it. I don’t need an over-engineered remote database to keep track of books. I can simply create a list myself. I’ve come to question this urge for publicity and to minimize my online presence as much as possible. Currently, only this blog remains. It’s minimal - no ads, no follow buttons, no comment boxes. It’s also rarely visited, partly as a direct consequence of my non-existent social media promotion. I’m okay with that. I love this kind of a quiet internet. Note that I am not opposed to all online forums and profile curation services. Some can be useful for specific purposes. For instance, an amateur birdwatcher may make great use out of eBird, an artist may want to have an ArtStation profile, or a developer may use GitHub for collaborative projects. My question is, why do we default to these online services that are often over-engineered for most use cases? Do we ever sit down to question whether these tools are the best way to support our crafts and hobbies? Or simply the convenient default? I suspect that often it is the latter.</summary></entry><entry><title type="html">On Going Analog</title><link href="http://localhost:4000/going-analog/" rel="alternate" type="text/html" title="On Going Analog" /><published>2019-10-11T00:00:00-04:00</published><updated>2019-10-11T00:00:00-04:00</updated><id>http://localhost:4000/going-analog</id><content type="html" xml:base="http://localhost:4000/going-analog/">&lt;p&gt;&lt;img src=&quot;/Media/pen-and-paper.png&quot; alt=&quot;Pen and Paper Writing&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I recently revisited the book &lt;a href=&quot;/quality-feb-2019&quot;&gt;Digital Minimalism&lt;/a&gt;. This time, however, I borrowed a physical copy through my university’s interlibrary loan program.&lt;/p&gt;
+
+&lt;p&gt;The purpose of moving away from my &lt;a href=&quot;/reading-habit&quot;&gt;exclusively digital&lt;/a&gt; reading habit is to rediscover some of the lost values of analog: analog reading, analog writing, and analog existence.&lt;/p&gt;
+
+&lt;p&gt;As an experiment, I am going to fully commit to a month-long digital detox as suggested in Digital Minimalism.&lt;/p&gt;
+
+&lt;p&gt;That means the only digital technologies that I am allowed to use are the bare essentials:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I can use email and browse the web for schoolwork and other necessary purposes.&lt;/li&gt;
+  &lt;li&gt;I can use a messaging application &lt;em&gt;on a computer&lt;/em&gt; to have video calls with my family back at home.&lt;/li&gt;
+  &lt;li&gt;I can send text messages and make phone calls.&lt;/li&gt;
+  &lt;li&gt;I can use a computer for schoolwork when a suitable analog replacement is not available.&lt;/li&gt;
+  &lt;li&gt;I can use a computer for programming and related tasks, such as occasionally posting to this blog, experimenting with the bash shell, or using XCode to practice Swift development.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;However, I am not allowed to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Browse the internet for entertainment, especially Reddit and Youtube.&lt;/li&gt;
+  &lt;li&gt;Use a computer for schoolwork when a suitable analog alternative exists.&lt;/li&gt;
+  &lt;li&gt;Unnecessarily check my phone or email.&lt;/li&gt;
+  &lt;li&gt;Play video games.&lt;/li&gt;
+  &lt;li&gt;Consume digital media in a non-social setting.&lt;/li&gt;
+  &lt;li&gt;Subscribe to any type of feed, such as email newsletters.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To stick to these rules, I made some lifestyle changes:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I got a paper journal (on which this very post is being written).&lt;/li&gt;
+  &lt;li&gt;I removed every single non-default app from my phone.&lt;/li&gt;
+  &lt;li&gt;I removed Windows installation from my desktop computer and installed Pop! OS, an Ubuntu variant, instead.&lt;/li&gt;
+  &lt;li&gt;I learned the basics of the bash shell so that I can get things done on the command line.&lt;/li&gt;
+  &lt;li&gt;I borrowed three paper books to read in my leisure time.&lt;/li&gt;
+  &lt;li&gt;I started wearing an automatic watch instead of using my phone to check my time.&lt;/li&gt;
+  &lt;li&gt;I started turning off my phone during the day.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In the time I have now due to purging digital entertainment, I will be:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Getting work done.&lt;/li&gt;
+  &lt;li&gt;Reading books.&lt;/li&gt;
+  &lt;li&gt;Relaxing more.&lt;/li&gt;
+  &lt;li&gt;Meditating.&lt;/li&gt;
+  &lt;li&gt;Socializing.&lt;/li&gt;
+  &lt;li&gt;Going on walks.&lt;/li&gt;
+  &lt;li&gt;Sleeping early.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I am curious how this detox will go. I will report back in a month.&lt;/p&gt;</content><author><name></name></author><summary type="html">I recently revisited the book Digital Minimalism. This time, however, I borrowed a physical copy through my university’s interlibrary loan program. The purpose of moving away from my exclusively digital reading habit is to rediscover some of the lost values of analog: analog reading, analog writing, and analog existence. As an experiment, I am going to fully commit to a month-long digital detox as suggested in Digital Minimalism. That means the only digital technologies that I am allowed to use are the bare essentials: I can use email and browse the web for schoolwork and other necessary purposes. I can use a messaging application on a computer to have video calls with my family back at home. I can send text messages and make phone calls. I can use a computer for schoolwork when a suitable analog replacement is not available. I can use a computer for programming and related tasks, such as occasionally posting to this blog, experimenting with the bash shell, or using XCode to practice Swift development. However, I am not allowed to: Browse the internet for entertainment, especially Reddit and Youtube. Use a computer for schoolwork when a suitable analog alternative exists. Unnecessarily check my phone or email. Play video games. Consume digital media in a non-social setting. Subscribe to any type of feed, such as email newsletters. To stick to these rules, I made some lifestyle changes: I got a paper journal (on which this very post is being written). I removed every single non-default app from my phone. I removed Windows installation from my desktop computer and installed Pop! OS, an Ubuntu variant, instead. I learned the basics of the bash shell so that I can get things done on the command line. I borrowed three paper books to read in my leisure time. I started wearing an automatic watch instead of using my phone to check my time. I started turning off my phone during the day. In the time I have now due to purging digital entertainment, I will be: Getting work done. Reading books. Relaxing more. Meditating. Socializing. Going on walks. Sleeping early. I am curious how this detox will go. I will report back in a month.</summary></entry><entry><title type="html">A Minimal, Private Mac</title><link href="http://localhost:4000/minimal-mac/" rel="alternate" type="text/html" title="A Minimal, Private Mac" /><published>2019-09-26T00:00:00-04:00</published><updated>2019-09-26T00:00:00-04:00</updated><id>http://localhost:4000/minimal-mac</id><content type="html" xml:base="http://localhost:4000/minimal-mac/">&lt;p&gt;&lt;img src=&quot;/Media/minimal-mac.png&quot; alt=&quot;MacBook Desktop&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is what my Macbook’s desktop looks like. It is free from all possible sources of distractions.&lt;/p&gt;
+
+&lt;p&gt;It would be difficult to focus if your workspace was littered with loose documents, empty coca-cola cans, stationeries, and doodles. The same principle applies to our digital environment.&lt;/p&gt;
+
+&lt;p&gt;As a tech-junkie and a computer science student, my laptop is the space that I spend most of my time in. So, I made it into the most focused setup possible.&lt;/p&gt;
+
+&lt;p&gt;It means that I will follow these rules:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Reduce all visual clutter.&lt;/li&gt;
+  &lt;li&gt;Eliminate all potential interruptions.&lt;/li&gt;
+  &lt;li&gt;If a task that a digital tool performs is not highly valuable, eliminate said tool.&lt;/li&gt;
+  &lt;li&gt;Use the simplest technology that accomplishes a valuable task.&lt;/li&gt;
+  &lt;li&gt;Since advertisements are the enemy of minimalism, use the more private option when two options are otherwise comparable.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;operating-system&quot;&gt;Operating System&lt;/h2&gt;
+
+&lt;p&gt;macOS is the simplest commercial desktop operating system. It has a minimalistic design language, and most things &lt;em&gt;just work&lt;/em&gt;. Not only that, as a Unix-like OS, working in the command line - the most focused environment possible - is a breeze.&lt;/p&gt;
+
+&lt;p&gt;That being said, I do not want to police around which OS anyone uses. The rules above can be applied to every OS.&lt;/p&gt;
+
+&lt;h2 id=&quot;os-level-settings&quot;&gt;OS-Level Settings&lt;/h2&gt;
+
+&lt;p&gt;Here are all the OS-level settings I modify in System Preferences:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;General
+    &lt;ul&gt;
+      &lt;li&gt;Appearance: Dark&lt;/li&gt;
+      &lt;li&gt;Close windows when quitting an app&lt;/li&gt;
+      &lt;li&gt;Automatically hide and save the menu bar&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Desktop &amp;amp; Screen Saver
+    &lt;ul&gt;
+      &lt;li&gt;I chose an understated default wallpaper.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Dock
+    &lt;ul&gt;
+      &lt;li&gt;Size: minimum&lt;/li&gt;
+      &lt;li&gt;Magnification: off&lt;/li&gt;
+      &lt;li&gt;Automatically hide and show the Dock&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Mission Control
+    &lt;ul&gt;
+      &lt;li&gt;Automatically rearrange Spaces based on most recent use: off&lt;/li&gt;
+      &lt;li&gt;Have only 1 Space open by default&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Screen Time: on&lt;/li&gt;
+  &lt;li&gt;Security &amp;amp; Privacy
+    &lt;ul&gt;
+      &lt;li&gt;FileVault disk encryption: on&lt;/li&gt;
+      &lt;li&gt;Firewall: on&lt;/li&gt;
+      &lt;li&gt;Privacy: limit ad tracking, do not share analytics&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;notifications&quot;&gt;Notifications&lt;/h2&gt;
+
+&lt;p&gt;Notifications inherently violate rule 3: eliminate all potential interruptions. There is only one place where notifications are allowed: out of my life.&lt;/p&gt;
+
+&lt;p&gt;In System Preferences &amp;gt; Notifications, I made some merciless changes.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Nothing goes to the Notification Center&lt;/li&gt;
+  &lt;li&gt;No app may have a badge icon&lt;/li&gt;
+  &lt;li&gt;Only Music and &lt;a href=&quot;tomighty.org&quot;&gt;Tomighty&lt;/a&gt; may send out a banner-style notification&lt;/li&gt;
+  &lt;li&gt;Just in case I missed something, my MacBook is automatically put to Do Not Disturb mode from 9 to 6.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;file-management&quot;&gt;File Management&lt;/h2&gt;
+
+&lt;p&gt;My file management system has one goal - to be able to retrieve any needed file quickly from anywhere.&lt;/p&gt;
+
+&lt;p&gt;To do so, clearing the Downloads and Desktop folder every evening has to become habitual.&lt;/p&gt;
+
+&lt;p&gt;All of my files are stored in a single Documents folder that is synchronized to my devices via iCloud.&lt;/p&gt;
+
+&lt;p&gt;iCloud is the most secure cloud storage service out of the big-name options. Other alternatives, such as Google, Microsoft, and Amazon, can and will read your data. For stronger security, you may want to use a zero-knowledge cloud service such as &lt;a href=&quot;https://www.sync.com/&quot;&gt;Sync.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Personally, iCloud is the sweet spot between convenience and security. With two-factor authentication enabled and a unique, frequently changed password, iCloud should be secure enough for most users.&lt;/p&gt;
+
+&lt;p&gt;Documents folder is set as the default folder when Finder opens.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/Media/minimal-finder.png&quot; alt=&quot;Document folder organization&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is what my Documents folder looks like. I use the tree view to quickly navigate through a deep folder structure with arrow keys.&lt;/p&gt;
+
+&lt;p&gt;The Images folder is where all of my photos live. While Photos is convenient to use, I have had my iPhoto library corrupted enough times to know that a simple folder tree with image files won’t break in the next macOS update.&lt;/p&gt;
+
+&lt;p&gt;The Mastermind folder holds some files for organizing my time. I will defer explaining my rich text productivity system to a later post.&lt;/p&gt;
+
+&lt;p&gt;The Notable folder holds markdown notes. Markdown syntax is easy to learn, platform-independent, and unlikely to break so as long as plain text files exist. I edit markdown files in &lt;a href=&quot;https://atom.io/&quot;&gt;Atom&lt;/a&gt; with &lt;a href=&quot;https://atom.io/packages/markdown-preview-enhanced&quot;&gt;markdown-preview-enhanced&lt;/a&gt; package.&lt;/p&gt;
+
+&lt;h2 id=&quot;my-favorite-apps&quot;&gt;My Favorite Apps&lt;/h2&gt;
+
+&lt;p&gt;I will discuss some of these Apps and how I set them up in future posts. For now, remember that reducing visual clutter is rule 1 and that using the simplest technology that gets the job done is rule 5. I stick to Apple apps as much as possible.&lt;/p&gt;
+
+&lt;p&gt;For further resource, check out Manu Moreale’s posts on &lt;a href=&quot;https://manuelmoreale.com/minimal-technology&quot;&gt;minimal technology&lt;/a&gt;, &lt;a href=&quot;https://manuelmoreale.com/a-simple-browser&quot;&gt;simple browser&lt;/a&gt;, and &lt;a href=&quot;https://manuelmoreale.com/emails&quot;&gt;minimal email&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/Media/firefox.png&quot; alt=&quot;Firefox&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Firefox&lt;/strong&gt; is the most private commercial browser.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/Media/mail.png&quot; alt=&quot;Mail&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mail&lt;/strong&gt; is my email client of choice.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/Media/atom.png&quot; alt=&quot;Atom&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Atom&lt;/strong&gt; is my favorite text editor. It is what I use to take notes and code simple projects. Coding programs purely in a text editor and command line also happens to be an exercise to improve programming skills. I also use &lt;strong&gt;IntelliJ IDEA&lt;/strong&gt;, &lt;strong&gt;Xcode&lt;/strong&gt;, &lt;strong&gt;ImageOptim&lt;/strong&gt;, and &lt;strong&gt;Github CLI&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/Media/tomighty.png&quot; alt=&quot;Tomighty&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tomighty&lt;/strong&gt; is a free and simple pomodoro timer app with no bullshit.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Calendar&lt;/strong&gt; is the simplest, functional calendar app.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;IINA&lt;/strong&gt; is my video player of choice. It is like VLC with a mac-native feel.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Apple Music for Students&lt;/strong&gt; is my favorite music streaming service.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;iBooks&lt;/strong&gt; is my favorite way to read books.&lt;/p&gt;
+
+&lt;p&gt;While I try to stay away from it, &lt;strong&gt;Microsoft Office&lt;/strong&gt; is also installed due to necessity.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;A minimal Mac setup takes little initial effort and can lead to higher productivity and clarity. I highly recommend any modern knowledge worker to follow some of the steps I described above.&lt;/p&gt;
+
+&lt;p&gt;In upcoming posts, I will discuss minimal iPhone and iPad setup, private web browsing, and rich text productivity system.&lt;/p&gt;</content><author><name></name></author><summary type="html">This is what my Macbook’s desktop looks like. It is free from all possible sources of distractions. It would be difficult to focus if your workspace was littered with loose documents, empty coca-cola cans, stationeries, and doodles. The same principle applies to our digital environment. As a tech-junkie and a computer science student, my laptop is the space that I spend most of my time in. So, I made it into the most focused setup possible. It means that I will follow these rules: Reduce all visual clutter. Eliminate all potential interruptions. If a task that a digital tool performs is not highly valuable, eliminate said tool. Use the simplest technology that accomplishes a valuable task. Since advertisements are the enemy of minimalism, use the more private option when two options are otherwise comparable. Operating System macOS is the simplest commercial desktop operating system. It has a minimalistic design language, and most things just work. Not only that, as a Unix-like OS, working in the command line - the most focused environment possible - is a breeze. That being said, I do not want to police around which OS anyone uses. The rules above can be applied to every OS. OS-Level Settings Here are all the OS-level settings I modify in System Preferences: General Appearance: Dark Close windows when quitting an app Automatically hide and save the menu bar Desktop &amp;amp; Screen Saver I chose an understated default wallpaper. Dock Size: minimum Magnification: off Automatically hide and show the Dock Mission Control Automatically rearrange Spaces based on most recent use: off Have only 1 Space open by default Screen Time: on Security &amp;amp; Privacy FileVault disk encryption: on Firewall: on Privacy: limit ad tracking, do not share analytics Notifications Notifications inherently violate rule 3: eliminate all potential interruptions. There is only one place where notifications are allowed: out of my life. In System Preferences &amp;gt; Notifications, I made some merciless changes. Nothing goes to the Notification Center No app may have a badge icon Only Music and Tomighty may send out a banner-style notification Just in case I missed something, my MacBook is automatically put to Do Not Disturb mode from 9 to 6. File Management My file management system has one goal - to be able to retrieve any needed file quickly from anywhere. To do so, clearing the Downloads and Desktop folder every evening has to become habitual. All of my files are stored in a single Documents folder that is synchronized to my devices via iCloud. iCloud is the most secure cloud storage service out of the big-name options. Other alternatives, such as Google, Microsoft, and Amazon, can and will read your data. For stronger security, you may want to use a zero-knowledge cloud service such as Sync.com. Personally, iCloud is the sweet spot between convenience and security. With two-factor authentication enabled and a unique, frequently changed password, iCloud should be secure enough for most users. Documents folder is set as the default folder when Finder opens. This is what my Documents folder looks like. I use the tree view to quickly navigate through a deep folder structure with arrow keys. The Images folder is where all of my photos live. While Photos is convenient to use, I have had my iPhoto library corrupted enough times to know that a simple folder tree with image files won’t break in the next macOS update. The Mastermind folder holds some files for organizing my time. I will defer explaining my rich text productivity system to a later post. The Notable folder holds markdown notes. Markdown syntax is easy to learn, platform-independent, and unlikely to break so as long as plain text files exist. I edit markdown files in Atom with markdown-preview-enhanced package. My Favorite Apps I will discuss some of these Apps and how I set them up in future posts. For now, remember that reducing visual clutter is rule 1 and that using the simplest technology that gets the job done is rule 5. I stick to Apple apps as much as possible. For further resource, check out Manu Moreale’s posts on minimal technology, simple browser, and minimal email. Firefox is the most private commercial browser. Mail is my email client of choice. Atom is my favorite text editor. It is what I use to take notes and code simple projects. Coding programs purely in a text editor and command line also happens to be an exercise to improve programming skills. I also use IntelliJ IDEA, Xcode, ImageOptim, and Github CLI. Tomighty is a free and simple pomodoro timer app with no bullshit. Calendar is the simplest, functional calendar app. IINA is my video player of choice. It is like VLC with a mac-native feel. Apple Music for Students is my favorite music streaming service. iBooks is my favorite way to read books. While I try to stay away from it, Microsoft Office is also installed due to necessity. Conclusion A minimal Mac setup takes little initial effort and can lead to higher productivity and clarity. I highly recommend any modern knowledge worker to follow some of the steps I described above. In upcoming posts, I will discuss minimal iPhone and iPad setup, private web browsing, and rich text productivity system.</summary></entry><entry><title type="html">Best New Features in macOS Catalina for a Mobile Student</title><link href="http://localhost:4000/catalina/" rel="alternate" type="text/html" title="Best New Features in macOS Catalina for a Mobile Student" /><published>2019-06-05T00:00:00-04:00</published><updated>2019-06-05T00:00:00-04:00</updated><id>http://localhost:4000/catalina</id><content type="html" xml:base="http://localhost:4000/catalina/">&lt;p&gt;As an international university student, I rely on a 13-inch MacBook Pro to get work done wherever I go, whether that be a library, café or in a different country. As such, the highlight of Apple’s World-Wide Developer Conference (WWDC) 2019 for me was the new macOS Catalina.&lt;/p&gt;
 
 &lt;p&gt;These are the new features in macOS Catalina are most pertinent for a mobile student.&lt;/p&gt;
 
@@ -134,4 +346,105 @@
 
 &lt;p&gt;And start from there. That’s what I’ve been trying my best to do for the past decade, failing most times, but sometimes coming out with valuable insight.&lt;/p&gt;
 
-&lt;p&gt;It is the fundamental goal of this blog to explore how to use technology intentionally since otherwise, the technology will use you instead.&lt;/p&gt;</content><author><name></name></author><summary type="html">I will soon be doing a deep dive into several popular “distraction blocker” apps. These are tools that make it very difficult to access distractive apps or websites. Distraction blockers can be an invaluable tool when we are first learning to sever our dependency from our digital addictions. Image courtesy of Freedom However, they come with a huge asterisk that their product pages often omit. Adding a Button to Block other Buttons There is something dystopian about our modern society that people pay to add digital buttons to their lives that block them from pressing other digital buttons. The use of apps like Freedom, StayFocused, or Forest inherently requires some degree of techno-optimism, the belief that new technology will fix all problems that are created by previous technologies. (Spoilers: It won’t.) Blindly believing that these apps will fix our complex issues of social media addiction, online shopping craze and video game compulsion is ludicrous. Oftentimes when testing these apps, I figured out a loophole in their programming, only to block that loophole, only to “crack” them in another way. Ultimately, I’d find a way to binge Youtube with a laughably roundabout method. Why? Maybe I’m addicted. But that explanation is too reductionist to be the whole picture. Our digital addictions are merely symptoms of underlying problems. Some of our necessary needs are not being met, and we’re using digital distractions as a bandage. It could be loneliness, lack of meaning in real life, boredom, stress, physical health, unawareness of our own habits, or any combination of them. It’s no fault of Freedom’s developers that their service is not an all-encompassing therapy service that cures our digital addictions. In fact, after having tested pretty much every distraction blockers out there, I recommend Freedom as the best cross-platform distraction blocker. I use it daily to block distractive games and websites during my working hours, and it helps me focus by making it too much of a hassle to procrastinate. It won’t, however, solve all my problems. On a fundamental level, it all boils down to living an intentional life. Ask “What life do I want to live?” And start from there. That’s what I’ve been trying my best to do for the past decade, failing most times, but sometimes coming out with valuable insight. It is the fundamental goal of this blog to explore how to use technology intentionally since otherwise, the technology will use you instead.</summary></entry></feed>
+&lt;p&gt;It is the fundamental goal of this blog to explore how to use technology intentionally since otherwise, the technology will use you instead.&lt;/p&gt;</content><author><name></name></author><summary type="html">I will soon be doing a deep dive into several popular “distraction blocker” apps. These are tools that make it very difficult to access distractive apps or websites. Distraction blockers can be an invaluable tool when we are first learning to sever our dependency from our digital addictions. Image courtesy of Freedom However, they come with a huge asterisk that their product pages often omit. Adding a Button to Block other Buttons There is something dystopian about our modern society that people pay to add digital buttons to their lives that block them from pressing other digital buttons. The use of apps like Freedom, StayFocused, or Forest inherently requires some degree of techno-optimism, the belief that new technology will fix all problems that are created by previous technologies. (Spoilers: It won’t.) Blindly believing that these apps will fix our complex issues of social media addiction, online shopping craze and video game compulsion is ludicrous. Oftentimes when testing these apps, I figured out a loophole in their programming, only to block that loophole, only to “crack” them in another way. Ultimately, I’d find a way to binge Youtube with a laughably roundabout method. Why? Maybe I’m addicted. But that explanation is too reductionist to be the whole picture. Our digital addictions are merely symptoms of underlying problems. Some of our necessary needs are not being met, and we’re using digital distractions as a bandage. It could be loneliness, lack of meaning in real life, boredom, stress, physical health, unawareness of our own habits, or any combination of them. It’s no fault of Freedom’s developers that their service is not an all-encompassing therapy service that cures our digital addictions. In fact, after having tested pretty much every distraction blockers out there, I recommend Freedom as the best cross-platform distraction blocker. I use it daily to block distractive games and websites during my working hours, and it helps me focus by making it too much of a hassle to procrastinate. It won’t, however, solve all my problems. On a fundamental level, it all boils down to living an intentional life. Ask “What life do I want to live?” And start from there. That’s what I’ve been trying my best to do for the past decade, failing most times, but sometimes coming out with valuable insight. It is the fundamental goal of this blog to explore how to use technology intentionally since otherwise, the technology will use you instead.</summary></entry><entry><title type="html">The iPad’s Multitasking Sucks. That’s Good.</title><link href="http://localhost:4000/ipad-multitasking/" rel="alternate" type="text/html" title="The iPad's Multitasking Sucks. That's Good." /><published>2019-05-02T00:00:00-04:00</published><updated>2019-05-02T00:00:00-04:00</updated><id>http://localhost:4000/ipad-multitasking</id><content type="html" xml:base="http://localhost:4000/ipad-multitasking/">&lt;p&gt;Multitasking on the iPad currently just kinda sucks. Heck, trying to use the iPad Pro as a “pro” device is a cumbersome experience in general.&lt;/p&gt;
+
+&lt;p&gt;Rumors about the upcoming iOS 13 hint that there will be a heightened focus on making the iPad into a true laptop replacement.&lt;/p&gt;
+
+&lt;p&gt;A home screen redesign for the iPad will likely better utilize its larger screen real-estate, multitasking will be smoother, and the Files app may see some improvements. Furthermore, users might be able to use an iPad as an external monitor to a Mac.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/Media/ipad-multitasking.jpg&quot; alt=&quot;The 2018 iPad Pro&quot; /&gt; &lt;sup&gt;&lt;a href=&quot;https://www.apple.com/ca/newsroom/2018/10/new-ipad-pro-with-all-screen-design-is-most-advanced-powerful-ipad-ever/&quot;&gt;Photo courtesy of Apple.&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Multitasking on the iPad will become easier than ever. Is it a future worth looking forward to?&lt;/p&gt;
+
+&lt;h3 id=&quot;ipad-pro-is-the-worlds-best-monotasking-productivity-machine&quot;&gt;iPad Pro is the world’s best monotasking productivity machine.&lt;/h3&gt;
+
+&lt;p&gt;I noticed a pattern after reading and watching countless iPad reviews.&lt;/p&gt;
+
+&lt;p&gt;The critics unanimously cite the iPad’s inability to multitask on iOS 12 as its biggest flaw, while the diehard iPad users use the iPad precisely because of this “limitation.”&lt;/p&gt;
+
+&lt;p&gt;While macOS’s virtual desktops make navigating the OS a breeze, it is also far too easy to have too many apps and tabs open at the same time.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.psychologytoday.com/us/blog/the-squeaky-wheel/201606/10-real-risks-multitasking-mind-and-body&quot;&gt;Multitasking is harmful to numerous facets of our lives.&lt;/a&gt; Monotasking is the way to go. We all know that; it’s been drilled down to us.&lt;/p&gt;
+
+&lt;p&gt;Few realize, however, that they are not monotasking. The mere presence of opened apps and tabs or even the occasional notifications distract our minds and create attention residue.&lt;/p&gt;
+
+&lt;p&gt;iPad brute-forces its users to interact with it with a completely different mindset since only up to three apps can be used at the same time.&lt;/p&gt;
+
+&lt;p&gt;Fans of the iPad Pro often report that their workflow became more focused. They are more productive and have more clarity.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-should-apple-approach-multitasking-on-the-ipad&quot;&gt;How should Apple approach multitasking on the iPad?&lt;/h3&gt;
+
+&lt;p&gt;I don’t think anyone disputes that the iPad’s current split-screen feature needs to be improved. On the other hand, the solution isn’t as simple as “Allow us to run macOS on the iPad, Apple you idiot!”&lt;/p&gt;
+
+&lt;p&gt;Multitasking should be an option, not the default. (This notion applies to most things in our life.)&lt;/p&gt;
+
+&lt;p&gt;At the same time, the iPad “Pro” should be able to do more “professional” tasks. Developers can’t rely an iPad Pro because XCode doesn’t run on it, creatives can’t rely on an iPad Pro because Adobe Suite doesn’t run on it, scientists can’t rely on an iPad pro because MATLAB for iPad is a gimped product.&lt;/p&gt;
+
+&lt;p&gt;That’s where &lt;a href=&quot;https://www.imore.com/marzipan&quot;&gt;Marzipan&lt;/a&gt; comes in. With heightened back-end integration between macOS and iOS, it should become much easier to develop for the iPad and macOS at the same time.&lt;/p&gt;
+
+&lt;p&gt;Hopefully, professionals will be able to run their sophisticated macOS tools like the Adobe Suite, XCode, or (the desktop version of) MATLAB on the iPad. Some of it is already happening: recently announced &lt;a href=&quot;https://venturebeat.com/2018/07/13/adobe-plans-full-photoshop-for-ipad-in-2019/&quot;&gt;Adobe Photoshop CC&lt;/a&gt; purportedly uses the Marzipan technology.&lt;/p&gt;
+
+&lt;p&gt;The future that I look forward to is not one where multitasking on the iPad Pro is a breeze.&lt;/p&gt;
+
+&lt;p&gt;It is one where the iPad Pro is capable of completely replacing a laptop while retaining its monotasking philosophy.&lt;/p&gt;</content><author><name></name></author><summary type="html">Multitasking on the iPad currently just kinda sucks. Heck, trying to use the iPad Pro as a “pro” device is a cumbersome experience in general. Rumors about the upcoming iOS 13 hint that there will be a heightened focus on making the iPad into a true laptop replacement. A home screen redesign for the iPad will likely better utilize its larger screen real-estate, multitasking will be smoother, and the Files app may see some improvements. Furthermore, users might be able to use an iPad as an external monitor to a Mac. Photo courtesy of Apple. Multitasking on the iPad will become easier than ever. Is it a future worth looking forward to? iPad Pro is the world’s best monotasking productivity machine. I noticed a pattern after reading and watching countless iPad reviews. The critics unanimously cite the iPad’s inability to multitask on iOS 12 as its biggest flaw, while the diehard iPad users use the iPad precisely because of this “limitation.” While macOS’s virtual desktops make navigating the OS a breeze, it is also far too easy to have too many apps and tabs open at the same time. Multitasking is harmful to numerous facets of our lives. Monotasking is the way to go. We all know that; it’s been drilled down to us. Few realize, however, that they are not monotasking. The mere presence of opened apps and tabs or even the occasional notifications distract our minds and create attention residue. iPad brute-forces its users to interact with it with a completely different mindset since only up to three apps can be used at the same time. Fans of the iPad Pro often report that their workflow became more focused. They are more productive and have more clarity. How should Apple approach multitasking on the iPad? I don’t think anyone disputes that the iPad’s current split-screen feature needs to be improved. On the other hand, the solution isn’t as simple as “Allow us to run macOS on the iPad, Apple you idiot!” Multitasking should be an option, not the default. (This notion applies to most things in our life.) At the same time, the iPad “Pro” should be able to do more “professional” tasks. Developers can’t rely an iPad Pro because XCode doesn’t run on it, creatives can’t rely on an iPad Pro because Adobe Suite doesn’t run on it, scientists can’t rely on an iPad pro because MATLAB for iPad is a gimped product. That’s where Marzipan comes in. With heightened back-end integration between macOS and iOS, it should become much easier to develop for the iPad and macOS at the same time. Hopefully, professionals will be able to run their sophisticated macOS tools like the Adobe Suite, XCode, or (the desktop version of) MATLAB on the iPad. Some of it is already happening: recently announced Adobe Photoshop CC purportedly uses the Marzipan technology. The future that I look forward to is not one where multitasking on the iPad Pro is a breeze. It is one where the iPad Pro is capable of completely replacing a laptop while retaining its monotasking philosophy.</summary></entry><entry><title type="html">Erik barker Reads Books From His iPad</title><link href="http://localhost:4000/ipad-reading/" rel="alternate" type="text/html" title="Erik barker Reads Books From His iPad" /><published>2019-04-30T00:00:00-04:00</published><updated>2019-04-30T00:00:00-04:00</updated><id>http://localhost:4000/ipad-reading</id><content type="html" xml:base="http://localhost:4000/ipad-reading/">&lt;p&gt;I recently shared my strategy for &lt;a href=&quot;/reading-habit&quot;&gt;finally making reading into a habit&lt;/a&gt;. The key takeaway was to redirect my habit of checking social media on my phone into reading a few pages of an ebook.&lt;/p&gt;
+
+&lt;p&gt;In order to make this change stick, I deleted every single source of distraction from my phone. That shaped my environment to be conducive to reading.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/Media/erikbarker.png&quot; alt=&quot;Erik Barker&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In my further research about forming reading habits, I came across an &lt;a href=&quot;https://www.youtube.com/watch?v=lIW5jBrrsS0&quot;&gt;interview&lt;/a&gt; of Erik Barker, the bestselling author of “Barking Up the Wrong Tree” and the writer of a homonymous blog. (It has an amusing address: &lt;a href=&quot;https://www.bakadesuyo.com&quot;&gt;bakadesuyo.com&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;p&gt;Erik Barker writes incredibly well-researched articles about living better lives through science of human behavior. What he has to say about reading probably has some merit. He says:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;On my phone, I don’t have Facebook, I don’t have Twitter, I don’t have email. My instinct to check social media, I’ve redirected toward the Kindle app. I give myself three checks a day unless there’s an explicit reason where I know there’s an important email coming in. […] Most of my reading takes place […] on the Kindle app on the iPad.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;His methodology is strikingly similar to mine, and I wouldn’t be surprised if more people independently discovered this “hack” of redirecting our social media cravings into reading more books.&lt;/p&gt;
+
+&lt;p&gt;This method boils down to two simple steps.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Delete all social media and other distractions from your phone or iPad.&lt;/li&gt;
+  &lt;li&gt;Read books instead of checking social media.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Erik Barker goes on to explain that when we first start forming a habit, we should put in the “minimum viable effort.” That is, start so small that it’s silly to fail.&lt;/p&gt;
+
+&lt;p&gt;Admittedly, setting the bar too high and forcing myself to make drastic changes is a trap that I often fall into. If I’m taking out my phone to instinctively check social media, however, I’m not expected to read a lot. &lt;em&gt;Just read a page while waiting on a line.&lt;/em&gt; &lt;em&gt;Just read a few pages while taking a quick study break.&lt;/em&gt; The bar is as low as it gets.&lt;/p&gt;
+
+&lt;p&gt;So there’s the key to reading more without putting in more effort.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;sup&gt;1&lt;/sup&gt; Cover image is from the Youtube interview, &lt;a href=&quot;https://www.youtube.com/watch?v=lIW5jBrrsS0&quot;&gt;BOOKSTORES: How to Read More Books in the Golden Age of Content&lt;/a&gt; by &lt;a href=&quot;https://www.youtube.com/channel/UCR0tBVaZPaSqmdqkw7oYmcw&quot;&gt;Max Joseph.&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">I recently shared my strategy for finally making reading into a habit. The key takeaway was to redirect my habit of checking social media on my phone into reading a few pages of an ebook. In order to make this change stick, I deleted every single source of distraction from my phone. That shaped my environment to be conducive to reading. In my further research about forming reading habits, I came across an interview of Erik Barker, the bestselling author of “Barking Up the Wrong Tree” and the writer of a homonymous blog. (It has an amusing address: bakadesuyo.com.) Erik Barker writes incredibly well-researched articles about living better lives through science of human behavior. What he has to say about reading probably has some merit. He says: On my phone, I don’t have Facebook, I don’t have Twitter, I don’t have email. My instinct to check social media, I’ve redirected toward the Kindle app. I give myself three checks a day unless there’s an explicit reason where I know there’s an important email coming in. […] Most of my reading takes place […] on the Kindle app on the iPad. His methodology is strikingly similar to mine, and I wouldn’t be surprised if more people independently discovered this “hack” of redirecting our social media cravings into reading more books. This method boils down to two simple steps. Delete all social media and other distractions from your phone or iPad. Read books instead of checking social media. Erik Barker goes on to explain that when we first start forming a habit, we should put in the “minimum viable effort.” That is, start so small that it’s silly to fail. Admittedly, setting the bar too high and forcing myself to make drastic changes is a trap that I often fall into. If I’m taking out my phone to instinctively check social media, however, I’m not expected to read a lot. Just read a page while waiting on a line. Just read a few pages while taking a quick study break. The bar is as low as it gets. So there’s the key to reading more without putting in more effort. 1 Cover image is from the Youtube interview, BOOKSTORES: How to Read More Books in the Golden Age of Content by Max Joseph.</summary></entry><entry><title type="html">The Joy of Nature-Watching in our Technocentric Lives</title><link href="http://localhost:4000/naturewatching/" rel="alternate" type="text/html" title="The Joy of Nature-Watching in our Technocentric Lives" /><published>2019-04-26T00:00:00-04:00</published><updated>2019-04-26T00:00:00-04:00</updated><id>http://localhost:4000/naturewatching</id><content type="html" xml:base="http://localhost:4000/naturewatching/">&lt;p&gt;A necessary counterpart to our modern lives is the reintroduction of the natural world. Few activities brought me more joy than the simple act of observing and photographing wildlife in their natural habitat.&lt;/p&gt;
+
+&lt;h3 id=&quot;my-personal-fallout&quot;&gt;My Personal Fallout&lt;/h3&gt;
+
+&lt;p&gt;Unfortunately, it is far too easy to completely neglect the natural realm of our existence. Although I used to go out to the woods almost every week, these hobbies were gradually taken over by more sedentary pastimes: browsing the internet, video gaming, and not getting enough outside air in general.&lt;/p&gt;
+
+&lt;p&gt;I accumulated unhealthy habits to the point where both my physical and mental health was severely crippled. Without being in tune with natural daily rhythm, my routines became erratic. I was eating, sleeping, and working in unsustainable chaos. I was stressed, burnt out, and languished.&lt;/p&gt;
+
+&lt;p&gt;Only recently did I face this problem directly. It is a lifestyle that I have barely begun recovering from.&lt;/p&gt;
+
+&lt;h1 id=&quot;nature-as-mental-health-sanctuary&quot;&gt;Nature as Mental Health Sanctuary&lt;/h1&gt;
+
+&lt;p&gt;Nature might be an antidote. It operates in its own clock, largely unperturbed by the hectic cycles of our urban lives. It promotes a sense of existence in the present moment that our technologies do not.&lt;/p&gt;
+
+&lt;p&gt;To be separate from the silent noise of social media and to observe, without trying to manipulate, nature has an almost meditative effect.&lt;/p&gt;
+
+&lt;p&gt;Science tends to agree. &lt;a href=&quot;https://www.pnas.org/content/116/11/5188&quot;&gt;Recent research&lt;/a&gt; studied the correlation between exposure to green areas in childhood residency and mental health issues later in life in over 90,000 Americans.&lt;/p&gt;
+
+&lt;p&gt;The results were staggering: those who lived in the most urban areas were over 55% more likely to be mentally ill than those who lived in the most rural areas, even after normalizing for other risk factors.&lt;/p&gt;
+
+&lt;p&gt;It’s no surprise that urban areas are damaging to our psyche. Our minds were not adapted to handle such a degree of mental overload.&lt;/p&gt;
+
+&lt;p&gt;Tech-junkies like me or the computer scientist &lt;a href=&quot;http://www.calnewport.com/blog/2015/10/21/the-power-of-the-outdoor-office/&quot;&gt;Cal Newport&lt;/a&gt; are starting to notice this compulsive need for retreating into nature. We’re the ones most doped into technocentrism, and the ones most heavily affected by it.&lt;/p&gt;
+
+&lt;h1 id=&quot;nature-watching&quot;&gt;Nature-Watching&lt;/h1&gt;
+
+&lt;p&gt;Fortunately, I have my old hobby of wildlife photography to fall back to. My observations are posted at &lt;a href=&quot;https://www.inaturalist.org/observations/jeewoongc&quot;&gt;iNaturalist&lt;/a&gt; and &lt;a href=&quot;https://www.instagram.com/skaliq_studios/&quot;&gt;Instagram&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Despite common perceptions, nature photography is not a hobby that absolutely requires equipment. These days, I only carry an iPhone 8 and a $50 Olloclip macro lens attachment. The photo above is an example of what iPhoneography can achieve. While it is nowhere near professional quality, it doesn’t have to be.&lt;/p&gt;
+
+&lt;p&gt;The method of our forays into nature might matter less than that we do. Whether it is birdwatching, wildlife photography, &lt;a href=&quot;https://www.discoverwildlife.com/how-to/wildlife-gardening/how-to-start-a-wildlife-garden/&quot;&gt;wildlife gardening&lt;/a&gt;, trekking, or eco-tourism, it seems to greatly help our mental health.&lt;/p&gt;</content><author><name></name></author><summary type="html">A necessary counterpart to our modern lives is the reintroduction of the natural world. Few activities brought me more joy than the simple act of observing and photographing wildlife in their natural habitat. My Personal Fallout Unfortunately, it is far too easy to completely neglect the natural realm of our existence. Although I used to go out to the woods almost every week, these hobbies were gradually taken over by more sedentary pastimes: browsing the internet, video gaming, and not getting enough outside air in general. I accumulated unhealthy habits to the point where both my physical and mental health was severely crippled. Without being in tune with natural daily rhythm, my routines became erratic. I was eating, sleeping, and working in unsustainable chaos. I was stressed, burnt out, and languished. Only recently did I face this problem directly. It is a lifestyle that I have barely begun recovering from. Nature as Mental Health Sanctuary Nature might be an antidote. It operates in its own clock, largely unperturbed by the hectic cycles of our urban lives. It promotes a sense of existence in the present moment that our technologies do not. To be separate from the silent noise of social media and to observe, without trying to manipulate, nature has an almost meditative effect. Science tends to agree. Recent research studied the correlation between exposure to green areas in childhood residency and mental health issues later in life in over 90,000 Americans. The results were staggering: those who lived in the most urban areas were over 55% more likely to be mentally ill than those who lived in the most rural areas, even after normalizing for other risk factors. It’s no surprise that urban areas are damaging to our psyche. Our minds were not adapted to handle such a degree of mental overload. Tech-junkies like me or the computer scientist Cal Newport are starting to notice this compulsive need for retreating into nature. We’re the ones most doped into technocentrism, and the ones most heavily affected by it. Nature-Watching Fortunately, I have my old hobby of wildlife photography to fall back to. My observations are posted at iNaturalist and Instagram. Despite common perceptions, nature photography is not a hobby that absolutely requires equipment. These days, I only carry an iPhone 8 and a $50 Olloclip macro lens attachment. The photo above is an example of what iPhoneography can achieve. While it is nowhere near professional quality, it doesn’t have to be. The method of our forays into nature might matter less than that we do. Whether it is birdwatching, wildlife photography, wildlife gardening, trekking, or eco-tourism, it seems to greatly help our mental health.</summary></entry></feed>
