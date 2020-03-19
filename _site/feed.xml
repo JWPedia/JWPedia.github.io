@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-19T05:14:37-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Technically Intentionally</title><subtitle>An aspiring developer's journey for a minimal life.</subtitle><entry><title type="html">Best New Features in macOS Catalina for a Mobile Student</title><link href="http://localhost:4000/catalina/" rel="alternate" type="text/html" title="Best New Features in macOS Catalina for a Mobile Student" /><published>2019-06-05T00:00:00-04:00</published><updated>2019-06-05T00:00:00-04:00</updated><id>http://localhost:4000/catalina</id><content type="html" xml:base="http://localhost:4000/catalina/">&lt;p&gt;As an international university student, I rely on a 13-inch MacBook Pro to get work done wherever I go, whether that be a library, café or in a different country. As such, the highlight of Apple’s World-Wide Developer Conference (WWDC) 2019 for me was the new macOS Catalina.&lt;/p&gt;
+
+&lt;p&gt;These are the new features in macOS Catalina are most pertinent for a mobile student.&lt;/p&gt;
+
+&lt;p&gt;First things first, the flagship feature this year was stronger cohesion between macOS and (the new) iPadOS.&lt;/p&gt;
+
+&lt;h1 id=&quot;project-catalyst&quot;&gt;Project Catalyst&lt;/h1&gt;
+
+&lt;p&gt;Previously, I &lt;a href=&quot;/ipad-multitasking&quot;&gt;wrote&lt;/a&gt; about how project Marzipan could bring more iPad apps to macOS and vice versa.&lt;/p&gt;
+
+&lt;p&gt;Apple revealed Project Catalyst, which streamlines the process of porting iPadOS apps to macOS. In Catalina, iOS apps like Music, Apple TV, Podcasts, Asphalt, and Jira are coming to macOS.&lt;/p&gt;
+
+&lt;p&gt;The impact of Project Catalyst, ironically, will not be felt from an addition of an app, but a removal. Rejoice, For iTunes is officially dead! The bloated software almost as old as myself may finally get its obituary. It won’t be missed.&lt;/p&gt;
+
+&lt;p&gt;From now on, synchronizing iOS devices will be done in Finder instead. It is a solution so simple and intuitive that I can’t believe I presumed Apple would create a “My iPhone” app on macOS.&lt;/p&gt;
+
+&lt;p&gt;Thanks to the new Music app, listening to Apple Music (with the obligatory $5/mo student plan) won’t be as cumbersome as it used to be.&lt;/p&gt;
+
+&lt;p&gt;Music is more lightweight than iTunes and is also built specifically for Apple Music. Still, it is nice that Music still supports integration with local iTunes library, the biggest selling point of Apple Music over Spotify for me.&lt;/p&gt;
+
+&lt;p&gt;A revamped lyrics UI is welcome as well. My morning rap jam sessions won’t involve clicking a drop-down menu that doesn’t stick on top of the screen anymore.&lt;/p&gt;
+
+&lt;h1 id=&quot;sidecar&quot;&gt;Sidecar&lt;/h1&gt;
+
+&lt;p&gt;Sidecar allows users to use an iPad as an external monitor to a Mac device, further bringing together macOS and iPadOS.&lt;/p&gt;
+
+&lt;p&gt;Sidecar is probably most useful for creative professionals that can draw on the newer iPads’ incredible screen and Apple Pencil 2 with an equally powerful desktop graphics software. Although I dabbled in art before, that target audience is not me.&lt;/p&gt;
+
+&lt;p&gt;That being said, Sidecar is relevant to anyone annoyed by the sheer lack of screen real estate on a smaller MacBook, like the 2017 13-inch MacBook Pro.&lt;/p&gt;
+
+&lt;p&gt;I would often have to open two tiny windows side-by-side, with e-textbook or lecture slides on the left and my notes on the right.&lt;/p&gt;
+
+&lt;p&gt;While I could purchase a portable external monitor, a monitor is used for much narrower circumstances than an iPad.&lt;/p&gt;
+
+&lt;p&gt;Sidecar is a feature that I definitely will use next year to get through university, most likely with an iPad Air 2 and an Adonit stylus.&lt;/p&gt;
+
+&lt;p&gt;I look forward to using my iPad for taking handwritten notes, and my MacBook Pro for programming, all the while taking advantage of extra screen real-estate.&lt;/p&gt;
+
+&lt;h1 id=&quot;icloud-drive-and-third-party-drive&quot;&gt;iCloud Drive and Third Party Drive&lt;/h1&gt;
+
+&lt;p&gt;There are two “hidden” additions to cloud storage that was relegated to the “we won’t talk about this on stage” part of WWDC.&lt;/p&gt;
+
+&lt;p&gt;You can now share iCloud Drive folders with a private link, a feature that was long overdue. As I rely on iCloud Drive to synchronize my files, this is a welcome change that will streamline collaboration.&lt;/p&gt;
+
+&lt;p&gt;For third-party cloud services, a new API makes it possible for developers to integrate their cloud directly into Finder.&lt;/p&gt;
+
+&lt;h1 id=&quot;screen-time&quot;&gt;Screen Time&lt;/h1&gt;
+
+&lt;p&gt;The first thing that anyone that wants to adopt digital minimalism should do is to go to Settings &amp;gt; Screen Time on their iOS devices. (Or any equivalent on Android.)&lt;/p&gt;
+
+&lt;p&gt;Since Screen Time doesn’t lie, the sheer number of hours that you spend on your iPhone is an effective wake-up call to aggressive cut down on phone usage for good.&lt;/p&gt;
+
+&lt;p&gt;I remember realizing that I spent a staggering 3 hours per day on WeChat. Admittedly, much of that time was logged while I had WeChat open while working on my MacBook. However, merely having it open so much must have compromised my ability to focus.&lt;/p&gt;
+
+&lt;p&gt;As Screen Time on iOS helped me gain some much-needed perspective about my iPhone usage, I expect to utilize Screen Time on macOS as well.&lt;/p&gt;
+
+&lt;h1 id=&quot;unsubscribe-from-mailing-list&quot;&gt;Unsubscribe from Mailing List&lt;/h1&gt;
+
+&lt;p&gt;In macOS Catalina, Mail.app will automatically detect and display links to unsubscribe from a mailing list.&lt;/p&gt;
+
+&lt;p&gt;I morbidly dread the process of searching for an “unsubscribe” link written in a minuscule font with camouflaged color hidden somewhere in the footer of a mailing list that I mistakenly signed up for by failing to uncheck a specific box in a form with numerous boxes when I made an account for a website that I no longer use.&lt;/p&gt;
+
+&lt;p&gt;While a small feature, it is consistent with Apple’s efforts to combat digital distractions with Screen Time.&lt;/p&gt;
+
+&lt;h1 id=&quot;addendum-bye-bye-32-bit-apps&quot;&gt;Addendum: Bye bye, 32-bit Apps&lt;/h1&gt;
+
+&lt;p&gt;With macOS Catalina, Apple is officially killing all compatibility support for 32-bit applications on macOS. This change gives me mixed feelings. While the banhammer was bound to come eventually, I still use one 32-bit application, namely Astrill VPN. I’ll have to wait and see when Astrill developers update their macOS client.&lt;/p&gt;</content><author><name></name></author><summary type="html">As an international university student, I rely on a 13-inch MacBook Pro to get work done wherever I go, whether that be a library, café or in a different country. As such, the highlight of Apple’s World-Wide Developer Conference (WWDC) 2019 for me was the new macOS Catalina. These are the new features in macOS Catalina are most pertinent for a mobile student. First things first, the flagship feature this year was stronger cohesion between macOS and (the new) iPadOS. Project Catalyst Previously, I wrote about how project Marzipan could bring more iPad apps to macOS and vice versa. Apple revealed Project Catalyst, which streamlines the process of porting iPadOS apps to macOS. In Catalina, iOS apps like Music, Apple TV, Podcasts, Asphalt, and Jira are coming to macOS. The impact of Project Catalyst, ironically, will not be felt from an addition of an app, but a removal. Rejoice, For iTunes is officially dead! The bloated software almost as old as myself may finally get its obituary. It won’t be missed. From now on, synchronizing iOS devices will be done in Finder instead. It is a solution so simple and intuitive that I can’t believe I presumed Apple would create a “My iPhone” app on macOS. Thanks to the new Music app, listening to Apple Music (with the obligatory $5/mo student plan) won’t be as cumbersome as it used to be. Music is more lightweight than iTunes and is also built specifically for Apple Music. Still, it is nice that Music still supports integration with local iTunes library, the biggest selling point of Apple Music over Spotify for me. A revamped lyrics UI is welcome as well. My morning rap jam sessions won’t involve clicking a drop-down menu that doesn’t stick on top of the screen anymore. Sidecar Sidecar allows users to use an iPad as an external monitor to a Mac device, further bringing together macOS and iPadOS. Sidecar is probably most useful for creative professionals that can draw on the newer iPads’ incredible screen and Apple Pencil 2 with an equally powerful desktop graphics software. Although I dabbled in art before, that target audience is not me. That being said, Sidecar is relevant to anyone annoyed by the sheer lack of screen real estate on a smaller MacBook, like the 2017 13-inch MacBook Pro. I would often have to open two tiny windows side-by-side, with e-textbook or lecture slides on the left and my notes on the right. While I could purchase a portable external monitor, a monitor is used for much narrower circumstances than an iPad. Sidecar is a feature that I definitely will use next year to get through university, most likely with an iPad Air 2 and an Adonit stylus. I look forward to using my iPad for taking handwritten notes, and my MacBook Pro for programming, all the while taking advantage of extra screen real-estate. iCloud Drive and Third Party Drive There are two “hidden” additions to cloud storage that was relegated to the “we won’t talk about this on stage” part of WWDC. You can now share iCloud Drive folders with a private link, a feature that was long overdue. As I rely on iCloud Drive to synchronize my files, this is a welcome change that will streamline collaboration. For third-party cloud services, a new API makes it possible for developers to integrate their cloud directly into Finder. Screen Time The first thing that anyone that wants to adopt digital minimalism should do is to go to Settings &amp;gt; Screen Time on their iOS devices. (Or any equivalent on Android.) Since Screen Time doesn’t lie, the sheer number of hours that you spend on your iPhone is an effective wake-up call to aggressive cut down on phone usage for good. I remember realizing that I spent a staggering 3 hours per day on WeChat. Admittedly, much of that time was logged while I had WeChat open while working on my MacBook. However, merely having it open so much must have compromised my ability to focus. As Screen Time on iOS helped me gain some much-needed perspective about my iPhone usage, I expect to utilize Screen Time on macOS as well. Unsubscribe from Mailing List In macOS Catalina, Mail.app will automatically detect and display links to unsubscribe from a mailing list. I morbidly dread the process of searching for an “unsubscribe” link written in a minuscule font with camouflaged color hidden somewhere in the footer of a mailing list that I mistakenly signed up for by failing to uncheck a specific box in a form with numerous boxes when I made an account for a website that I no longer use. While a small feature, it is consistent with Apple’s efforts to combat digital distractions with Screen Time. Addendum: Bye bye, 32-bit Apps With macOS Catalina, Apple is officially killing all compatibility support for 32-bit applications on macOS. This change gives me mixed feelings. While the banhammer was bound to come eventually, I still use one 32-bit application, namely Astrill VPN. I’ll have to wait and see when Astrill developers update their macOS client.</summary></entry><entry><title type="html">Accidental Environmentalism in Minimalism</title><link href="http://localhost:4000/accidental-minimalism/" rel="alternate" type="text/html" title="Accidental Environmentalism in Minimalism" /><published>2019-05-19T00:00:00-04:00</published><updated>2019-05-19T00:00:00-04:00</updated><id>http://localhost:4000/accidental-minimalism</id><content type="html" xml:base="http://localhost:4000/accidental-minimalism/">&lt;p&gt;The Green New Deal is still a hot topic in politics, which is remarkable considering that conservation biologists, climatologists, and &lt;a href=&quot;https://youtu.be/JDcro7dPqpA?t=1108&quot;&gt;Bill Nye&lt;/a&gt; have been shouting into the void for what seems like an eternity.&lt;/p&gt;
+
+&lt;p&gt;It is great that Alexandria Ocasio-Cortez (AOC) and others demand immediate and drastic action, for moderate market-based policies have failed. It is the cold, hard truth that without drastic action, the biosphere will be &lt;a href=&quot;https://www.ipcc.ch/2018/10/08/summary-for-policymakers-of-ipcc-special-report-on-global-warming-of-1-5c-approved-by-governments/&quot;&gt;irreversibly damaged.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;environmental-elitism&quot;&gt;Environmental Elitism&lt;/h1&gt;
+
+&lt;p&gt;My major concern is how rampant elitism is among environmentalist activists. If you’re an omnivore, you’re a heinous criminal; if you fly, you’re irredeemable; if you use any single-use or plastic product, you’re morally deficient, or the narrative often goes.&lt;/p&gt;
+
+&lt;p&gt;It is completely understandable that “climate extremists”, whom I would more aptly describe “climate-conscious-people-with-common-sense”, are harshly critical of environmentally damaging practices.&lt;/p&gt;
+
+&lt;p&gt;When it comes to policies directly related to climate change, keep on pushing, and don’t give ground; we’re fighting the good fight.&lt;/p&gt;
+
+&lt;p&gt;Being consistently adamant about environmentalism, however, can easily turn off the majority of people that simply do not care.&lt;/p&gt;
+
+&lt;p&gt;The unfortunate reality is that we do not need several hundred thousand perfect environmentalists, we need seven billion imperfect environmentalists.&lt;/p&gt;
+
+&lt;h1 id=&quot;minimalism-is-marketable&quot;&gt;Minimalism is Marketable&lt;/h1&gt;
+
+&lt;p&gt;The Green New Deal isn’t marketable to those that don’t care, and no environmentalist gloom-and-doom will persuade the public unless they figure out how to make people’s lives better right now.&lt;/p&gt;
+
+&lt;p&gt;That’s why minimalism should be the environmentalist’s stealthy mask when talking to those that are so far removed that a straightforward approach will never work.&lt;/p&gt;
+
+&lt;p&gt;Minimalism addresses ubiquitous problems of average persons in a developed nation - mental stress, personal finances, and productivity - which makes it infinitely more marketable than any environmentalist movement can ever be.&lt;/p&gt;
+
+&lt;p&gt;Admittedly, minimalism does not go directly with environmentalism. Still, the average self-proclaimed minimalist probably has a lower impact on the environment than the average maximalist simply due to the virtue of owning less material possessions.&lt;/p&gt;
+
+&lt;p&gt;This is my suggestion: If someone is critical of the Green New Deal, don’t condemn them, and don’t talk about climate change in front of them.&lt;/p&gt;
+
+&lt;p&gt;Instead, stealthily propose minimalism as a solution to their other practical everyday problems that happen to help the environment along the way.&lt;/p&gt;
+
+&lt;h1 id=&quot;will-minimalism-save-the-world&quot;&gt;Will minimalism save the world?&lt;/h1&gt;
+
+&lt;p&gt;I’d wager that minimalism in itself falls short of that, though it could definitely help. At the very least, it is clear that the developed world needs to drastically change its consumption habits, one Konmari fan at a time.&lt;/p&gt;</content><author><name></name></author><summary type="html">The Green New Deal is still a hot topic in politics, which is remarkable considering that conservation biologists, climatologists, and Bill Nye have been shouting into the void for what seems like an eternity. It is great that Alexandria Ocasio-Cortez (AOC) and others demand immediate and drastic action, for moderate market-based policies have failed. It is the cold, hard truth that without drastic action, the biosphere will be irreversibly damaged. Environmental Elitism My major concern is how rampant elitism is among environmentalist activists. If you’re an omnivore, you’re a heinous criminal; if you fly, you’re irredeemable; if you use any single-use or plastic product, you’re morally deficient, or the narrative often goes. It is completely understandable that “climate extremists”, whom I would more aptly describe “climate-conscious-people-with-common-sense”, are harshly critical of environmentally damaging practices. When it comes to policies directly related to climate change, keep on pushing, and don’t give ground; we’re fighting the good fight. Being consistently adamant about environmentalism, however, can easily turn off the majority of people that simply do not care. The unfortunate reality is that we do not need several hundred thousand perfect environmentalists, we need seven billion imperfect environmentalists. Minimalism is Marketable The Green New Deal isn’t marketable to those that don’t care, and no environmentalist gloom-and-doom will persuade the public unless they figure out how to make people’s lives better right now. That’s why minimalism should be the environmentalist’s stealthy mask when talking to those that are so far removed that a straightforward approach will never work. Minimalism addresses ubiquitous problems of average persons in a developed nation - mental stress, personal finances, and productivity - which makes it infinitely more marketable than any environmentalist movement can ever be. Admittedly, minimalism does not go directly with environmentalism. Still, the average self-proclaimed minimalist probably has a lower impact on the environment than the average maximalist simply due to the virtue of owning less material possessions. This is my suggestion: If someone is critical of the Green New Deal, don’t condemn them, and don’t talk about climate change in front of them. Instead, stealthily propose minimalism as a solution to their other practical everyday problems that happen to help the environment along the way. Will minimalism save the world? I’d wager that minimalism in itself falls short of that, though it could definitely help. At the very least, it is clear that the developed world needs to drastically change its consumption habits, one Konmari fan at a time.</summary></entry><entry><title type="html">Freedom Is The Best Way to Block Social Media on Your Devices, But……</title><link href="http://localhost:4000/freedom/" rel="alternate" type="text/html" title="Freedom Is The Best Way to Block Social Media on Your Devices, But......" /><published>2019-05-05T00:00:00-04:00</published><updated>2019-05-05T00:00:00-04:00</updated><id>http://localhost:4000/freedom</id><content type="html" xml:base="http://localhost:4000/freedom/">&lt;p&gt;I will soon be doing a deep dive into several popular “distraction blocker” apps. These are tools that make it very difficult to access distractive apps or websites.&lt;/p&gt;
+
+&lt;p&gt;Distraction blockers can be an invaluable tool when we are first learning to sever our dependency from our digital addictions.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/Media/freedom.jpg&quot; alt=&quot;Freedom.to&quot; /&gt; &lt;sup&gt;Image courtesy of &lt;a href=&quot;https://freedom.refersion.com/c/b112ec&quot;&gt;Freedom&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;However, they come with a huge asterisk that their product pages often omit.&lt;/p&gt;
+
+&lt;h4 id=&quot;adding-a-button-to-block-other-buttons&quot;&gt;Adding a Button to Block other Buttons&lt;/h4&gt;
+
+&lt;p&gt;There is something dystopian about our modern society that people pay to add digital buttons to their lives that block them from pressing other digital buttons.&lt;/p&gt;
+
+&lt;p&gt;The use of apps like &lt;a href=&quot;https://freedom.to/&quot;&gt;Freedom&lt;/a&gt;, &lt;a href=&quot;https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?hl=en&quot;&gt;StayFocused&lt;/a&gt;, or &lt;a href=&quot;https://www.forestapp.cc&quot;&gt;Forest&lt;/a&gt; inherently requires some degree of techno-optimism, the belief that new technology will fix all problems that are created by previous technologies. (Spoilers: It won’t.)&lt;/p&gt;
+
+&lt;p&gt;Blindly believing that these apps will fix our complex issues of social media addiction, online shopping craze and video game compulsion is ludicrous.&lt;/p&gt;
+
+&lt;p&gt;Oftentimes when testing these apps, I figured out a loophole in their programming, only to block that loophole, only to “crack” them in another way. Ultimately, I’d find a way to binge Youtube with a laughably roundabout method.&lt;/p&gt;
+
+&lt;p&gt;Why? Maybe I’m addicted. But that explanation is too reductionist to be the whole picture.&lt;/p&gt;
+
+&lt;p&gt;Our digital addictions are merely symptoms of underlying problems. Some of our necessary needs are not being met, and we’re using digital distractions as a bandage.&lt;/p&gt;
+
+&lt;p&gt;It could be loneliness, lack of meaning in real life, boredom, stress, physical health, unawareness of our own habits, or any combination of them.&lt;/p&gt;
+
+&lt;p&gt;It’s no fault of &lt;a href=&quot;https://freedom.refersion.com/c/b112ec&quot;&gt;Freedom&lt;/a&gt;’s developers that their service is not an all-encompassing therapy service that cures our digital addictions.&lt;/p&gt;
+
+&lt;p&gt;In fact, after having tested pretty much every distraction blockers out there, I recommend &lt;a href=&quot;https://freedom.refersion.com/c/b112ec&quot;&gt;Freedom&lt;/a&gt; as the best cross-platform distraction blocker.&lt;/p&gt;
+
+&lt;p&gt;I use it daily to block distractive games and websites during my working hours, and it helps me focus by making it too much of a hassle to procrastinate.&lt;/p&gt;
+
+&lt;p&gt;It won’t, however, solve all my problems.&lt;/p&gt;
+
+&lt;p&gt;On a fundamental level, it all boils down to living an intentional life.&lt;/p&gt;
+
+&lt;h1 id=&quot;ask-what-life-do-i-want-to-live&quot;&gt;Ask “What life do I want to live?”&lt;/h1&gt;
+
+&lt;p&gt;And start from there. That’s what I’ve been trying my best to do for the past decade, failing most times, but sometimes coming out with valuable insight.&lt;/p&gt;
+
+&lt;p&gt;It is the fundamental goal of this blog to explore how to use technology intentionally since otherwise, the technology will use you instead.&lt;/p&gt;</content><author><name></name></author><summary type="html">I will soon be doing a deep dive into several popular “distraction blocker” apps. These are tools that make it very difficult to access distractive apps or websites. Distraction blockers can be an invaluable tool when we are first learning to sever our dependency from our digital addictions. Image courtesy of Freedom However, they come with a huge asterisk that their product pages often omit. Adding a Button to Block other Buttons There is something dystopian about our modern society that people pay to add digital buttons to their lives that block them from pressing other digital buttons. The use of apps like Freedom, StayFocused, or Forest inherently requires some degree of techno-optimism, the belief that new technology will fix all problems that are created by previous technologies. (Spoilers: It won’t.) Blindly believing that these apps will fix our complex issues of social media addiction, online shopping craze and video game compulsion is ludicrous. Oftentimes when testing these apps, I figured out a loophole in their programming, only to block that loophole, only to “crack” them in another way. Ultimately, I’d find a way to binge Youtube with a laughably roundabout method. Why? Maybe I’m addicted. But that explanation is too reductionist to be the whole picture. Our digital addictions are merely symptoms of underlying problems. Some of our necessary needs are not being met, and we’re using digital distractions as a bandage. It could be loneliness, lack of meaning in real life, boredom, stress, physical health, unawareness of our own habits, or any combination of them. It’s no fault of Freedom’s developers that their service is not an all-encompassing therapy service that cures our digital addictions. In fact, after having tested pretty much every distraction blockers out there, I recommend Freedom as the best cross-platform distraction blocker. I use it daily to block distractive games and websites during my working hours, and it helps me focus by making it too much of a hassle to procrastinate. It won’t, however, solve all my problems. On a fundamental level, it all boils down to living an intentional life. Ask “What life do I want to live?” And start from there. That’s what I’ve been trying my best to do for the past decade, failing most times, but sometimes coming out with valuable insight. It is the fundamental goal of this blog to explore how to use technology intentionally since otherwise, the technology will use you instead.</summary></entry></feed>
