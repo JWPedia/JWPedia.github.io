@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I am Jeewoong "Skaliq" Chang, an undergraduate computer science major in the University of Rochester. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I write about a wide range of interests spanning technology, biological sciences, media criticism, and simple, intentional living. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Enjoy!
 
-
-[jekyll-organization]: https://github.com/jekyll
+All posts are my original content. They are all available for any use with attribution. (CC-BY)
