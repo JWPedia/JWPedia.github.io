@@ -13,4 +13,4 @@ Please enjoy!
 
 All posts are my original content. They are all available for any use with attribution. (CC-BY)
 
-You won't find me on social media. If you have anything to say, leave an email [here.](mailto:jwpedia@icloud.com)
+You won't find me on social media. If you have anything to say, leave an email [here.](mailto:hello@jeewoongchang.com)
