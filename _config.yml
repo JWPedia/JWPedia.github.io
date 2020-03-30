@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Technically Intentionally
+title: JWPedia | Jeewoong's Personal Encyclopedia
 email: hello@jwpedia.com
-tagline: An aspiring developer's journey for a minimal life.
+tagline: Jeewoong's Personal Encyclopedia
 description: An aspiring developer's journey for a minimal life.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://jwpedia.com # the base hostname & protocol for your site, e.g. http://example.com
