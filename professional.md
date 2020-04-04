@@ -7,16 +7,12 @@ date: 2020-04-04
 
 This is my professional resume and portfolio. For an informal introduction to this blog, visit the [about](/about) page. Public code is available on [Github](https://github.com/JeewoongChang). For inquiries, please [email](mailto:hello@jwpedia.com) me.
 
-***
-
-<br>
-
 # Resume
 
 **Education and Experiences**
 
 * Undergraduate student for B.S. in Computer Science at University of Rochester. (2018-current)
-* Internship at Beijing Zhinuo Law Firm as lawyer's intern and translator. (2018)
+* Internship at Beijing Zhinuo Law Firm as lawyer's assistant and translator. (2018)
 * IB Diploma graduate at International School of Beijing. (2013-2018)
 
 **Skills**
@@ -26,13 +22,9 @@ This is my professional resume and portfolio. For an informal introduction to th
 * System administration experience with Linux and Hackintosh.
 * Fluent in English, Korean, and Mandarin with legal translation experience.
 
-***
-
-<br>
-
 # Portfolio
 
-* Jeewoong Chang. 2020. Personal blog at https://jwpedia.com
+* Jeewoong Chang. 2020. **Personal blog** at https://jwpedia.com
 
 This website is built with Jekyll and hosted on Github Pages. Prior knowledge of various technologies such as HTML and Markdown/YAML, git, web hosting and DNS resolving, and bash shell were employed. This project served as a learning process for elementary Ruby.
 
