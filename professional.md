@@ -5,7 +5,7 @@ permalink: /professional/
 date: 2020-04-04
 ---
 
-This is my professional resume and portfolio. For an informal introduction to this blog, visit the [about](/about) page. Public code is available on [Github](https://github.com/JeewoongChang). For inquiries, please [email](mailto:hello@jwpedia.com) me.
+[Github](https://github.com/JeewoongChang). [LeetCode](https://leetcode.com/skaliq/). [email](mailto:hello@jwpedia.com).
 
 # Resume
 
@@ -24,7 +24,7 @@ This is my professional resume and portfolio. For an informal introduction to th
 
 # Portfolio
 
-* Jeewoong Chang. 2020. **Personal blog** at https://jwpedia.com
+* Jeewoong Chang. 2020. **Personal blog** at [https://jwpedia.com](https://jwpedia.com)
 
 This website is built with Jekyll and hosted on Github Pages. Prior knowledge of various technologies such as HTML and Markdown/YAML, git, web hosting and DNS resolving, and bash shell were employed. This project served as a learning process for elementary Ruby.
 
