@@ -45,5 +45,5 @@ Despite all these drastic measures, I would still find ways to circumvent the ru
 
 1. Keep on studying ahead with undergraduate-level computer science. That includes data science & algorithms, computational theory, computational complexity, computating organization, operating system......
 2. Keep up with current computer science research. Read, at the very least, Communications of the ACM and Journal of the ACM. Even if I don't understand most of what the scholars are saying!
-3. If I'm mentally drained, there are other useful things that [CS majors should know](matt.might.net/articles/what-cs-majors-should-know/) that don't require as much focus. For instance, I can practice my LaTeX or Bash scripting or read more casual books and magazines on science.
-4. When I'm finally drained of all my brainpower, I find it's already time to sleep, and countless things to learn remain. That is the power of a strong enough motivation. 
+3. If I'm mentally drained, there are other useful things that [CS majors should know](https://matt.might.net/articles/what-cs-majors-should-know/) that don't require as much focus. For instance, I can practice my LaTeX or Bash scripting or read more casual books and magazines on science.
+4. When I'm finally drained of all my brainpower, I find it's already time to sleep, and countless things to learn remain. That is the power of a strong enough motivation.
