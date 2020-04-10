@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Living in the Command Line&#x3a; Regolith Tiling Manager
+title: Regolith Tiling Manager | Living in the Command Line
 permalink: /cli-regolith/
 categories: technology minimalism
 date: 2020-04-09
