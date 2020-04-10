@@ -66,4 +66,4 @@ Regolith allows for controlling the computer purely through keybindings without 
 
 A final note about terminal multiplexers: Yes, [tmux](https://github.com/tmux/tmux/wiki) is amazing. However, since I already use a tiling window manager, a terminal multiplexer is not required. 
 
-In upcoming posts, I will be writing about the bash shell, task management with taskwarrior, scheduling with khal, text editing with vim, document processing with latex, and many more topics. Stay tuned!
+In upcoming posts, I will be writing about the bash shell, task management with taskwarrior, scheduling with khal, text editing with vim, document processing with latex, development with git, and many more topics. Stay tuned!
