@@ -41,7 +41,7 @@ These unnecessary applications are GUI apps that I plan to replace with CLI duri
 
 On the other hand, there are some GUI apps that I installed out of necessity: Zoom, Anki, pCloud Sync, and Discord. While some rudimentary command-line applications for these services exist, they do not meet my needs. For instance, offline sync capability for pCloud is only available via Electron GUI app. 
 
-While I'd love to be able to completely substitute GUI web browsers with TUI web browsers for this experiment, some mission-critical websites rely on Javascript. Where possible, however, I will be using tools like [mps-youtube](https://github.com/mps-youtube/mps-youtube), [Newsboat](https://github.com/newsboat/newsboat), and [Links2](http://www.aboutlinux.info/2007/02/links2-cross-platform-console-based-web.html) where possible for internet media consumption. 
+While I'd love to be able to completely substitute GUI web browsers with TUI web browsers for this experiment, some mission-critical websites rely on Javascript. Where possible, however, I will be using tools like [mps-youtube](https://github.com/mps-youtube/mps-youtube), [Newsboat](https://github.com/newsboat/newsboat), and [Links2](http://www.aboutlinux.info/2007/02/links2-cross-platform-console-based-web.html) for internet media consumption. 
 
 # Getting Used to Regolith (i.e. i3)
 
