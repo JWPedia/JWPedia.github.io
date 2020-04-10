@@ -5,7 +5,7 @@ permalink: /professional/
 date: 2020-04-04
 ---
 
-[Github](https://github.com/JeewoongChang). [LeetCode](https://leetcode.com/skaliq/). [email](mailto:hello@jwpedia.com).
+[Github](https://github.com/JeewoongChang). [LeetCode](https://leetcode.com/skaliq/). [Email](mailto:hello@jwpedia.com).
 
 # Resume
 
