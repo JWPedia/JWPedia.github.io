@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Learning to Live in the Command Line, Part 1: Regolith + Pop!OS
+title: Living in the Command Line: Regolith Tiling Manager
 permalink: /cli-regolith/
-categories: minimalism technology
+categories: technology minimalism
 date: 2020-04-09
 ---
 
