@@ -6,7 +6,7 @@ date: 2020-04-09
 categories: minimalism technology
 ---
 
-I've long held a bit of a fascination on the command-line interface (CLI) while being scared to approach it. Experienced programmers have long since vouched for the power of the command line, its efficiency, and flexibility. Furthermore, as [Matt Might](http://matt.might.net/articles/cripple-your-technology/) recommends, the command line is extremely conducive to productivity, as there are little avenues for distractions. 
+I've long held a bit of a fascination on the command-line interface (CLI), but was scared to approach it. Experienced programmers vouched for the power of the command line, its efficiency, and flexibility. Furthermore, as [Matt Might](http://matt.might.net/articles/cripple-your-technology/) recommends, the command line is extremely conducive to productivity, as there are little avenues for distractions. That's why I decided to learn how to live in the command line. 
 
 # Choosing a Linux Distro
 
