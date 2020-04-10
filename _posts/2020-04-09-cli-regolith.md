@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Learning to Live in the Command Line, Part 1: Regolith + Pop!OS, Web Browsing
+title: Learning to Live in the Command Line, Part 1: Regolith + Pop!OS
 permalink: /cli-regolith/
-date: 2020-04-09
 categories: minimalism technology
+date: 2020-04-09
 ---
 
 I've long held a bit of a fascination on the command-line interface (CLI), but was scared to approach it. Experienced programmers vouched for the power of the command line, its efficiency, and flexibility. Furthermore, as [Matt Might](http://matt.might.net/articles/cripple-your-technology/) recommends, the command line is extremely conducive to productivity, as there are little avenues for distractions. That's why I decided to learn how to live in the command line. 
