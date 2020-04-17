@@ -119,7 +119,7 @@ bindsym $mod+Shift+k move up
 bindsym $mod+Shift+l move right
 ```
 
-This may be an unpopular choice, but I removed all workspaces escept workspace two and the scratchpad. This helps me stay focused without having lots of applications in the background, fragmenting my attention. I would, of course, create more workspaces on a laptop or a multi-monitor setup.  
+This may be an unpopular choice, but I removed all workspaces escept two and the scratchpad. This helps me stay focused without having lots of applications open in the background, fragmenting my attention. I would, of course, create more workspaces on a laptop with small screen real-estate or a multi-monitor setup.
 
 ```
 set $ws1 1
@@ -156,7 +156,7 @@ exec --no-startup-id xautolock -time 120 -locker blurlock
 I made some programs automatically start when i3 launches:
 
 ```
-# ibus language input choice UI
+# ibus input language UI
 exec_always ibus-daemon -drx --panel /usr/lib/ibus/ibus-ui-gtk3
 
 # pcloud client for syncing files to local drive
