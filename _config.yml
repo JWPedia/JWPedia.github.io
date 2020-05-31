@@ -23,6 +23,8 @@ url: https://jwpedia.com # the base hostname & protocol for your site, e.g. http
 
 # Build settings
 markdown: kramdown
+kramdown:
+    math_engine: mathjax
 theme: minima
 plugins:
  - jekyll-feed
