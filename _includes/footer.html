@@ -4,7 +4,7 @@
   <div class="wrapper">
 
     <div class="footer-col-wrapper">
-      <div class="footer-col">
+      <div class="footer-col" style="display:flex flex-flow:row-wrap">
         <p class="feed-subscribe">
           <a href="{{ 'feed.xml' | relative_url }}">
             <svg class="svg-icon orange">
@@ -22,7 +22,8 @@
             <input type="email" name="email" id="bd-email">
             <input type="hidden" value="1" name="embed"></input>
             <input type="submit" value="Email"></input>
-        </form>
+          </form>
+        </p>
       {%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}
