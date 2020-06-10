@@ -2,7 +2,7 @@
 layout: post
 title: In Appreciation of the Classic Whiteboard
 permalink: /whiteboard/
-date: 2019-06-11
+date: 2020-06-11
 ---
 
 My current home office setup is simple. On my desk, I have my portable small form-factor Linux machine. My code, my archived notes, and my reference books are all digital. Behind my back, always accessible, is a large whiteboard. It's where thinking happens.
