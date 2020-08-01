@@ -113,6 +113,7 @@ In computing, 1 denotes true, and 0 denotes false. Thus, the truth table looks l
 | 0 | 1 | 0 | 1              | 1     | 1                   |
 | 0 | 0 | 1 | 1              | 1     | 1                   |
 | 0 | 0 | 0 | 1              | 0     | 0                   |
+
 <sup>Truth table of the warning light in logic design syntax.</sup>
 
 This truth table can then be used to design a logic circuit that looks like this. 
@@ -141,12 +142,14 @@ This truth table can then be used to design a logic circuit that looks like this
     3. Max is always unlucky. It is either raining today, or Max brought an umbrella today, but not both. 
 
 4. Write proposition R in terms of P, Q, and logical operators. 
+
     | P | Q | R |
     |---|---|---|
     | T | T | T |
     | T | F | F |
     | F | T | F |
     | F | F | T |
+    
 5. A user submitted the following query to a search engine. Define adequate propositions and express the query in terms of propositions and logical operators. 
 
     `site:jwpedia.com (intext:logic OR intext:math) -intitle:philosophy`

@@ -5,7 +5,7 @@ permalink: /studynotes/
 date: 2020-07-30
 ---
 
-Below, you can find the course syllabus for Study Notes and the respective articles for each section. The syllabus is designed so that it can be read in sequence to understand everything at any time. For that reason, it deviates from normal curricula. It covers each topic from high school to university levels, all in one go. 
+Below, you can find the course syllabus for Study Notes and the respective articles for each section. The syllabus is designed so that it can be read in sequence to understand everything. It deviates from normal curricula, covering each topic from high school to university levels, all in one go. 
 
 # Mathematics
 
@@ -15,7 +15,7 @@ The mathematics course covers each broad topic of mathematics from precalc to un
 
 ### Section 1.1: Propositional Logic
 
-* Concept 1.1.1: [Propositions, Truth Tables, and Logical Operators](/propositions)
+* Concept 1.1.1: [Propositions, Logical Operators, and Truth Tables](/propositions)
 * Concept 1.1.2: Conditional Statements
 * Concept 1.1.3: Propositional Equivalences
 
