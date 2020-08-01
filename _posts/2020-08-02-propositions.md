@@ -2,7 +2,7 @@
 layout: post
 title: Propositions, Logical Operators, and Truth Tables | Study Notes
 permalink: /propositions/
-date: 2020-08-02
+date: 2020-08-01
 mathjax: true
 ---
 
