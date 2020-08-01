@@ -9,13 +9,13 @@ Below, you can find the course syllabus for Study Notes and the respective artic
 
 # Mathematics
 
-The mathematics course covers each broad topic of mathematics from precalc to university. This way of organizing  the syllabus gives you a rigorous foundation of mathematics from the get-go, allowing you to form a deeper understanding of concepts normally taught with some hand-waving in high school mathematics courses. Each unit spans from simple to complex. You may skip around as you please to get the desired level of difficulty. For instance, those interested in the general physics course may only study units 2 and 3, and 
+The mathematics course covers each broad topic of mathematics from precalc to university. This way of organizing  the syllabus gives you a rigorous foundation of mathematics from the get-go, allowing you to form a deeper understanding of concepts normally taught with some hand-waving in high school mathematics courses. Each unit spans from simple to complex. You may skip around as you please to get the desired level of difficulty. For instance, those interested in the physics course may only study units 2 and 3, and read parts of unti 4, 5, and 6 as needed. 
 
 ## Unit 1: Logic, Proofs, and Discrete Structures
 
 ### Section 1.1: Propositional Logic
 
-* Concept 1.1.1: Propositions and Truth Tables, and Logical Operators
+* Concept 1.1.1: [Propositions, Truth Tables, and Logical Operators](/propositions)
 * Concept 1.1.2: Conditional Statements
 * Concept 1.1.3: Propositional Equivalences
 
