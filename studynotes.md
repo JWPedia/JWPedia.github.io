@@ -5,11 +5,11 @@ permalink: /studynotes/
 date: 2020-07-30
 ---
 
-Below, you can find the course syllabus for Study Notes and the respective articles for each section. The syllabus is designed so that it can be read in sequence to understand everything. It deviates from normal curricula, covering each topic from high school to university levels, all in one go. 
+Below, you can find the course syllabus for Study Notes and the respective articles for each section. The syllabus is designed so that it can be read in sequence to understand everything, but can also be read in buffet-style. It deviates from normal curricula, covering each topic from high school to university levels, all in one go. Alternatively, you can read a specific article, and its linked prerequisite concepts and further readings. 
 
 # Mathematics
 
-The mathematics course covers each broad topic of mathematics from precalc to university. This way of organizing  the syllabus gives you a rigorous foundation of mathematics from the get-go, allowing you to form a deeper understanding of concepts normally taught with some hand-waving in high school mathematics courses. Each unit spans from simple to complex. You may skip around as you please to get the desired level of difficulty. For instance, those interested in the physics course may only study units 2 and 3, and read parts of unti 4, 5, and 6 as needed. 
+The mathematics course covers each broad topic of mathematics from precalc to university. It gives you a rigorous foundation of mathematics from the get-go, allowing you to form a deeper understanding of concepts normally taught with some hand-waving in high school mathematics courses. Each unit spans from simple to complex. You may skip around as you please to get the desired level of difficulty. For instance, those interested in the physics course may only study units 2 and 3, and read parts of unti 4, 5, and 6 as needed. 
 
 ## Unit 1: Logic, Proofs, and Discrete Structures
 
