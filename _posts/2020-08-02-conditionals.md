@@ -65,7 +65,7 @@ We introduce - but not elaborate on - the concept of meta-logic, a higher form o
 
 $P \Leftrightarrow Q$ is a metalogical statement that the truth values of P and Q are always the same. In the world of propositional logic, we need equivalence in the definition of equivalence itself, like so: $(P \Leftrightarrow Q) \Leftrightarrow ((P \leftrightarrow Q) \Leftrightarrow T)$. This is because the definition of logical equivalence is that the biconditional is logically equivalent to *T*. While this recursive definition is usually adequate, metalanguages may be used to avoid conflicts. Metalanguages are outside the scope of this article, and knowing that it exists will suffice for now. 
 
-*Note.* Biconditional is logically equivalent to $P \rightarrow Q \wedge Q \rightarrow P$. This is precisely why $F \implies P$ is always true. Showing why is left as an exercise. 
+***Note.*** Biconditional is logically equivalent to $P \rightarrow Q \wedge Q \rightarrow P$. This is precisely why $F \rightarrow P$ is always true. Showing why is left as an exercise. 
 
 Logical equivalences can be shown through truth tables, or by using known logical equivalences. 
 
@@ -129,7 +129,7 @@ Since showing logical equivalences is tedious and unnessary, many important logi
     
     $$P \wedge ( P \vee Q ) \Leftrightarrow P$$ 
 
-8. Suppose that the conditional connective $F \rightarrow P$ is always false. Knowing that $P \leftrigharrow Q$ is equivalent to $P \righarrow Q \wedge Q \rightarrow P$, fill out the truth table to show that $Q \leftrightarrow p$ is a contradiction. Why would this be a problem? How does $F \rightarrow P$ being always true solve this issue?
+8. Suppose that the conditional connective $F \rightarrow P$ is always false. Knowing that $P \leftrightarrow Q$ is equivalent to $P \rightarrow Q \wedge Q \rightarrow P$, fill out the truth table to show that $Q \leftrightarrow p$ is a contradiction. Why would this be a problem? How does $F \rightarrow P$ being always true solve this issue?
 
 
 
