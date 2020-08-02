@@ -16,8 +16,7 @@ The mathematics course covers each broad topic of mathematics from precalc to un
 ### Section 1.1: Propositional Logic
 
 * Concept 1.1.1: [Propositions, Logical Operators, and Truth Tables](/propositions)
-* Concept 1.1.2: Conditional Statements
-* Concept 1.1.3: Propositional Equivalences
+* Concept 1.1.2: [Conditionals and Logical Equivalences](/conditionals)
 
 ### Section 1.2: Predicate Logic
 

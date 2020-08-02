@@ -18,6 +18,8 @@ Mathematics is the study of truths. Every mathematical claim can be defined prec
 
 ***Definition.*** A proposition is a statement that is either true or false, but not both. 
 
+The absense of a half-true, half-false state is called the law of the excluded middle and something that we take as a fact.
+
 The following are some true propositions: 
 
 1. Humans are animals. 
