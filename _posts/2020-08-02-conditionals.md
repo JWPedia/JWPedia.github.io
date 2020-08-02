@@ -27,7 +27,7 @@ Conditional and biconditional connectives, and logical equivalences are similar 
 
 <sup>The truth table of a conditional statement.</sup>
 
-Consider the propositions "If $1 + 1 = 2$ then dogs can't fly", and "If dogs can't fly, then the Sun orbits around the Earth." The former is a true statement, and the latter, false. From these examples, we can see that $T \rightarrow T$ is true, and $T \rightarrow T$ is false. 
+Consider the propositions "If $1 + 1 = 2$ then dogs can't fly", and "If dogs can't fly, then the Sun orbits around the Earth." The former is a true statement, and the latter, false. From these examples, we can see that $T \rightarrow T$ is true, and $T \rightarrow F$ is false. 
 
 A trickier concept is the notion that a false hypothesis always results in a true conditional. How does "If dogs can fly, then $1 + 1 = 0$" make any sense? The real answer is that it often doesn't, and that it is a promise made for some nice properties. 
 
@@ -64,6 +64,8 @@ We introduce - but not elaborate on - the concept of meta-logic, a higher form o
 
 
 $P \Leftrightarrow Q$ is a metalogical statement that the truth values of P and Q are always the same. In the world of propositional logic, we need equivalence in the definition of equivalence itself, like so: $(P \Leftrightarrow Q) \Leftrightarrow ((P \leftrightarrow Q) \Leftrightarrow T)$. This is because the definition of logical equivalence is that the biconditional is logically equivalent to *T*. While this recursive definition is usually adequate, metalanguages may be used to avoid conflicts. Metalanguages are outside the scope of this article, and knowing that it exists will suffice for now. 
+
+*Note.* Biconditional is logically equivalent to $P \rightarrow Q \wedge Q \rightarrow P$. This is precisely why $F \implies P$ is always true. Showing why is left as an exercise. 
 
 Logical equivalences can be shown through truth tables, or by using known logical equivalences. 
 
@@ -109,9 +111,10 @@ Since showing logical equivalences is tedious and unnessary, many important logi
 5. The **De Morgan's Laws** state that 
 
     $$\neg (P \wedge Q) \Leftrightarrow \neg P \vee \neg Q$$
+    
     $$\neg (P \vee Q) \Leftrightarrow \neg P \wedge \neg Q$$
     
-    The easiest way to understand the De Morgan's Laws is through a Venn diagram. 
+    The easiest way to understand the De Morgan's Laws is through a Venn diagram. Convince yourself that the shaded areas are equal to the right side of the above equations. 
     
     ![](/Media/conditionals-demorgans.jpeg)
     <sup>Venn diagram representation of De Morgan's Laws</sup>
@@ -123,9 +126,10 @@ Since showing logical equivalences is tedious and unnessary, many important logi
 7. Using a truth table, show that the **absorption laws** hold: 
 
     $$P \vee ( P \wedge Q ) \Leftrightarrow P$$
+    
     $$P \wedge ( P \vee Q ) \Leftrightarrow P$$ 
 
-
+8. Suppose that the conditional connective $F \rightarrow P$ is always false. Knowing that $P \leftrigharrow Q$ is equivalent to $P \righarrow Q \wedge Q \rightarrow P$, fill out the truth table to show that $Q \leftrightarrow p$ is a contradiction. Why would this be a problem? How does $F \rightarrow P$ being always true solve this issue?
 
 
 
