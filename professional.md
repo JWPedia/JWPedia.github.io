@@ -5,12 +5,13 @@ permalink: /professional/
 date: 2020-04-04
 ---
 
-[Github](https://github.com/JeewoongChang). [LeetCode](https://leetcode.com/skaliq/). [Email](mailto:hello@jwpedia.com). [Project Euler](https://projecteuler.net/profile/AmiraOfArmageddon.png).
+Jeewoong Chang. [Github](https://github.com/JeewoongChang). [LeetCode](https://leetcode.com/skaliq/). [Email](mailto:hello@jwpedia.com). [Project Euler](https://projecteuler.net/profile/AmiraOfArmageddon.png).
 
 # Resume
 
 **Education and Experiences**
 
+* Freelance tech writer for several publications. More details on my [writing portfolio.](/writing)
 * Undergraduate student for B.S. in Computer Science at University of Rochester. (2018-current)
 * Internship at Beijing Zhinuo Law Firm as lawyer's assistant and translator. (2018)
 * IB Diploma graduate at International School of Beijing. (2013-2018)
