@@ -13,11 +13,13 @@ Jeewoong Chang. [Github](https://github.com/JeewoongChang). [LeetCode](https://l
 
 * Freelance tech writer for several publications. More details on my [writing portfolio.](/writing) (2020-current)
 * Undergraduate student for B.S. in Computer Science at University of Rochester. (2018-current)
+* IB Physics, Mathematics, and Biology tutor. (2018-current)
 * Internship at Beijing Zhinuo Law Firm as lawyer's assistant and translator. (2018)
 * IB Diploma graduate at International School of Beijing. (2013-2018)
 
 **Skills**
 
+* Teaching ESL students English STEM curricula. 
 * Proficiency with OOP and data structures with Java and Python.
 * Experience with SQL, HTML/CSS, JQuery, PHP.
 * System administration experience with Linux and Hackintosh.
