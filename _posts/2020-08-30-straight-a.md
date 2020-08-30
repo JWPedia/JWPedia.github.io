@@ -122,10 +122,9 @@ Research should be a systemic process, not a haphazard grind that most students 
 2. Make personal photocopies of all sources and their bibliographies.
 3. Skim the sources and annotate key points.
 4. If done, move onto writing. If not, return to step 1.
-
-  1. List the topics crucial to support the thesis.
-  2. List the topics that might help support the thesis.
-  3. Make sure there are two or more good sources for each crucial topic, and one good source for most supplementary topics.
+  * List the topics crucial to support the thesis.
+  * List the topics that might help support the thesis.
+  * Make sure there are two or more good sources for each crucial topic, and one good source for most supplementary topics.
 
 (Note: The author elaborated in his later works that separating the process of collecting sources, and actually reading them is a standard practice in the academia.)
 
