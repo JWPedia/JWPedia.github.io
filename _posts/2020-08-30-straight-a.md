@@ -8,9 +8,13 @@ mathjax: false
 
 "How to Become a Straight-A Student" by Cal Newport is the best student advice book I've come across, full to the brim with practical strategies that will leave you less stressed, more focused, and academically successful. I reread it many times, and in my most recent read, I condensed my reading notes into a single blog post.
 
+***
+
 # Main Thesis
 
 Straight-A students employ smart study strategies that help them succeed while stressing out less than their peers.
+
+***
 
 # Part 1: Basics
 
@@ -38,6 +42,8 @@ All you need is a master calendar, a list, and 5 minutes in the morning.
 1. When: Study earlier in the day in between classes. Partying can come later.
 2. Where: Study in isolation. Go to extraordinary places or use earbuds if necessary. Have several isolated study spots in your back pocket.
 3. How long: Study for no more than one hour at a time without a break.
+
+***
 
 # Part 2: Exams and Quizzes
 
@@ -89,6 +95,8 @@ Actually "studying" is the least important part of Straight-A students' exam pre
 * Solve the easy questions first.
 * Outline essay questions before writing them.
 * Check your work!
+
+***
 
 # Part 3: Essay and Paper Writing
 
