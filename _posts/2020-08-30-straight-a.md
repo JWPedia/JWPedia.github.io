@@ -152,7 +152,7 @@ Unlike what most students think, the actual writing shouldn't take too long.
 * Write in isolation under focus.
 * Follow the outline, and work on one topic at a time.
 
-## Step 4: Edit
+## Step 5: Edit
 
 Fix, but don't fixate. Three passes are enough:
 
