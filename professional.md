@@ -5,7 +5,7 @@ permalink: /professional/
 date: 2020-04-04
 ---
 
-Jeewoong Chang. [Github](https://github.com/JeewoongChang). [LeetCode](https://leetcode.com/skaliq/). [Email](mailto:hello@jwpedia.com). [Project Euler](https://projecteuler.net/profile/AmiraOfArmageddon.png).
+[Github](https://github.com/JeewoongChang). [LeetCode](https://leetcode.com/skaliq/). [Email](mailto:hello@jwpedia.com). [Project Euler](https://projecteuler.net/profile/AmiraOfArmageddon.png).
 
 # Resume
 
