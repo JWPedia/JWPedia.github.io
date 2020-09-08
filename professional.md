@@ -11,7 +11,7 @@ date: 2020-04-04
 
 **Education and Experiences**
 
-* Freelance tech writer for several publications. More details on my [writing portfolio.](/writing) (2020-current)
+* Freelance tech writer for several publications. 
 * Undergraduate student for B.S. in Computer Science at University of Rochester. (2018-current)
 * IB Physics, Mathematics, and Biology tutor. (2018-current)
 * Internship at Beijing Zhinuo Law Firm as lawyer's assistant and translator. (2018)
