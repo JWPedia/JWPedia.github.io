@@ -5,7 +5,7 @@ permalink: /about/
 date: 2019-03-29
 ---
 
-Hi, I am Jeewoong Chang, an undergraduate computer science major studying in the University of Rochester. Welcome to my personal blog!
+Hi, I am JWChang, an undergraduate student at the University of Rochester . Welcome to my personal blog!
 
 This website's URL, JWPedia, stands for JeeWoong chang's Personal encyclopEDIA. I've been using it as my email address for a long time, with the idea that people should go to an encyclopedia to hear from the world, and contact me at this address to hear from me. Now, you can visit my website to read about my thoughts.
 
