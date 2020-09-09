@@ -11,18 +11,6 @@
               <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
             </svg><span>RSS</span>
           </a>
-          <!--Email subscription form-->
-          <form
-            action="https://buttondown.email/api/emails/embed-subscribe/jwpedia"
-            method="post"
-            target="popupwindow"
-            onsubmit="window.open('https://buttondown.email/jwpedia', 'popupwindow')"
-            class="embeddable-buttondown-form">
-            <label for="bd-email"></label>
-            <input type="email" name="email" id="bd-email">
-            <input type="hidden" value="1" name="embed"></input>
-            <input type="submit" value="Email"></input>
-          </form>
         </p>
       {%- if site.author %}
         <ul class="contact-list">
