@@ -5,7 +5,11 @@ permalink: /about/
 date: 2019-03-29
 ---
 
-<p><img src="/Media/2020profilepic.jpg" alt="Profile Pic" width="400" height="400"> Hi, I am Jiwon, an undergraduate student at the University of Rochester studying B.S. in Computer Science and B.A. in Mathematics. Welcome to my personal blog! This website's URL, JWPedia, stands for JiWon's Personal encyclopEDIA. I've been using it as my email address for a long time, with the idea that people should go to an encyclopedia to hear from the world, and contact me at this address to hear from me. Now, you can visit my website to read about my thoughts.</p>
+<img src="/Media/2020profilepic.jpg" alt="Profile Pic" width="400" height="400" display="flex"> 
+
+Hi, I am Jiwon, an undergraduate student at the University of Rochester studying B.S. in Computer Science and B.A. in Mathematics. Welcome to my personal blog! This website's URL, JWPedia, stands for JiWon's Personal encyclopEDIA. 
+
+I've been using it as my email address for a long time, with the idea that people should go to an encyclopedia to hear from the world, and contact me at this address to hear from me. Now, you can visit my website to read about my thoughts. 
 
 I write about technology, sciences, techno criticism, and intentional living. I am particularly interested in how to better understand the way information technology shapes our modern lives. 
 
