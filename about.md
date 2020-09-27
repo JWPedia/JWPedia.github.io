@@ -13,4 +13,4 @@ I write about technology, sciences, techno criticism, and intentional living. I 
 
 You won't find me on social media. You can leave an email at [hello@jwpedia.com](mailto:hello@jwpedia.com) or subscribe to future posts via [rss](https://jwpedia.com/feed.xml).
 
-All blog posts are my original content, and they are all [open](/open). That means you can use them for any purpose. I won't chase after you if you use a post to earn a million dollars or make Reddit memes. I simply would ask for attribution as a matter of basic human decency. Note that this open policy only applies to this blog and not my other endeavours.</p>
+All blog posts are my original content, and they are all [open](/open). That means you can use them for any purpose. I won't chase after you if you use a post to earn a million dollars or make Reddit memes. I simply would ask for attribution as a matter of basic human decency. Note that this open policy only applies to this blog and not my other endeavours.
