@@ -5,14 +5,4 @@ permalink: /about/
 date: 2019-03-29
 ---
 
-<img src="/Media/2020profilepic.jpg" alt="Profile Pic" width="200" height="200" float="left" margin="0 20px 0 0"> 
-
-Hi, I am Jiwon, an undergraduate student at the University of Rochester studying B.S. in Computer Science and B.A. in Mathematics. Welcome to my personal blog! This website's URL, JWPedia, stands for **J**i**w**on's **p**ersonal encyclop**edia.**
-
-I write about technology, sciences, techno criticism, and intentional living. I am particularly interested in how to better understand the way information technology shapes our modern lives. 
-
-You won't find me on social media. If you have anything to say, leave an email at [hello@jwpedia.com](mailto:hello@jwpedia.com).
-
-Subscribe to future posts via [rss](https://jwpedia.com/feed.xml).
-
-All blog posts are my original content, and they are all [open](/open). That means you can use them for any purpose. I won't chase after you if you use a post to earn a million dollars or make Reddit memes. I simply would ask for attribution as a matter of basic human decency. Note that this open policy only applies to this blog and not my other endeavours. 
+<p><img src="/Media/2020profilepic.jpg" alt="Profile Pic" width="200" height="200" float="left" margin="0 20px 0 0"> Hi, I am Jiwon, an undergraduate student at the University of Rochester studying B.S. in Computer Science and B.A. in Mathematics. Welcome to my personal blog! This website's URL, JWPedia, stands for **J**i**w**on's **p**ersonal encyclop**edia.**<br><br>I write about technology, sciences, techno criticism, and intentional living. I am particularly interested in how to better understand the way information technology shapes our modern lives.<br><br>You won't find me on social media. If you have anything to say, leave an email at [hello@jwpedia.com](mailto:hello@jwpedia.com).<br><br>Subscribe to future posts via [rss](https://jwpedia.com/feed.xml).<br><br>All blog posts are my original content, and they are all [open](/open). That means you can use them for any purpose. I won't chase after you if you use a post to earn a million dollars or make Reddit memes. I simply would ask for attribution as a matter of basic human decency. Note that this open policy only applies to this blog and not my other endeavours.</p>
