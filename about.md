@@ -5,7 +5,7 @@ permalink: /about/
 date: 2019-03-29
 ---
 
-![Profile Pic](/Media/2020profilepic.jpg)
+<img src="/Media/2020profilepic.jpg" alt="Profile Pic" width="500" height="500">
 
 Hi, I am Jiwon, an undergraduate student at the University of Rochester studying B.S. in Computer Science and B.A. in Mathematics. Welcome to my personal blog!
 
