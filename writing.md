@@ -5,7 +5,7 @@ permalink: /writing/
 date: 2020-09-25
 ---
 
-Browse my writing portfolio by topics. 
+Browse my external writing portfolio by topics. 
 
 # Education
 
