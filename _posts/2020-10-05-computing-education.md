@@ -19,7 +19,7 @@ I plan to tackle a glaring limitation of this piece in an upcoming article.
 
 # Bibliography
 
-[1] Caren A. Arbeit, Alexander Bentz, Emily Forrest Cataldi, and Herschel Sanders. Alternative and Independent: The Universe of Technology-Related “Bootcamps.” DOI:[https://doi.org/https://doi.org/10.3768/rtipress.2018.rr.0033.1901](https://doi.org/https://doi.org/10.3768/rtipress.2018.rr.0033.1901)
+[1] Caren A. Arbeit, Alexander Bentz, Emily Forrest Cataldi, and Herschel Sanders. Alternative and Independent: The Universe of Technology-Related “Bootcamps.” DOI:[/https://doi.org/10.3768/rtipress.2018.rr.0033.1901](/https://doi.org/10.3768/rtipress.2018.rr.0033.1901)
 
 [2] Claire Cain Miller. 2017. Tech’s Damaging Myth of the Loner Genius Nerd. *The New York Times.* Retrieved October 3, 2020 from [https://www.nytimes.com/2017/08/12/upshot/techs-damaging-myth-of-the-loner-genius-nerd.html](https://www.nytimes.com/2017/08/12/upshot/techs-damaging-myth-of-the-loner-genius-nerd.html)
 
