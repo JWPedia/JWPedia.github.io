@@ -23,7 +23,7 @@ I plan to tackle a glaring limitation of this piece in an upcoming article.
 
 [2] Claire Cain Miller. 2017. Tech’s Damaging Myth of the Loner Genius Nerd. *The New York Times.* Retrieved October 3, 2020 from https://www.nytimes.com/2017/08/12/upshot/techs-damaging-myth-of-the-loner-genius-nerd.html
 
-[3] Getting to Know GitHub | Welcome to Mozilla Science Lab’s Study Group Orientation! *Mozilla Science.* Retrieved October 3, 2020 from https://mozillascience.github.io/study-group-orientation/3.2-know-github.html
+[3] Getting to Know GitHub \| Welcome to Mozilla Science Lab’s Study Group Orientation! *Mozilla Science.* Retrieved October 3, 2020 from https://mozillascience.github.io/study-group-orientation/3.2-know-github.html
 
 [4] Graham Wilson. 2017. Building a new mythology: The coding boot-camp phenomenon. *Acm Inroads* 8, 4 (2017), 66–71. DOI:https://doi.org/10.1145/3132706
 
@@ -33,4 +33,4 @@ I plan to tackle a glaring limitation of this piece in an upcoming article.
 
 [7] Timothy J. Hickey and Pito Salas. 6AD. The entrepreneur’s bootcamp: a new model for teaching web/mobile development and software entrepreneurship. In *Proceedings of the ACM Special Interest Group on Computer Science Education (SIGCSE ’13)*, ACM, Denver, Colorado, USA, 549–554. DOI:https://doi.org/10.1145/2445196.2445361
 
-[8] What Is Agile Project Management? | APM Methodology & Definition. *Association for Project Management.* Retrieved October 3, 2020 from https://www.apm.org.uk/resources/find-a-resource/agile-project-management/
+[8] What Is Agile Project Management? \| APM Methodology & Definition. *Association for Project Management.* Retrieved October 3, 2020 from https://www.apm.org.uk/resources/find-a-resource/agile-project-management/
