@@ -5,7 +5,7 @@ permalink: /writing/
 date: 2020-09-25
 ---
 
-Browse my external writing portfolio. 
+Browse my external writing portfolio as a freelance tech writer. 
 
 # 2020
 
