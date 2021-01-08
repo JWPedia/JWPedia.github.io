@@ -5,7 +5,7 @@ permalink: /about/
 date: 2019-03-29
 ---
 
-<img src="/Media/2021profilepic.jpg" alt="Profile Pic" style="width:20%; float:left; margin: 2%">
+<img src="/Media/2021profilepic.jpeg" alt="Profile Pic" style="width:20%; float:left; margin: 2%">
 
 Hi, I am Jiwon, an undergraduate student at the University of Rochester studying B.S. in Computer Science and B.A. in Mathematics. Welcome to my personal blog! This website's URL, JWPedia, stands for **J**i**w**on's **p**ersonal encyclop**edia.**
 
